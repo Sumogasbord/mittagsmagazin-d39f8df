@@ -46,7 +46,7 @@ sections:
         text: |
           Sumögåsbordの旅行記集です。
         image:
-          url: /images/avatar1.svg
+          url: /images/abstract-background.svg
           altText: Placeholder Image
           styles:
             self:
