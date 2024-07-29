@@ -161,7 +161,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: false
