@@ -42,7 +42,7 @@ sections:
     items:
       - title: 休み短しさまよえ旅人
         tagline: TRAVEL DIARY
-        subtitle: TRAVEL DIARY
+        subtitle: Travel Diary
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
