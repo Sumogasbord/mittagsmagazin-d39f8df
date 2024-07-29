@@ -154,7 +154,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Informations
       color: text-dark
       styles:
         self:
