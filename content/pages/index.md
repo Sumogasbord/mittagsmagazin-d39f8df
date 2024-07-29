@@ -32,7 +32,7 @@ sections:
       opacity: 50
       url: /images/magazine_background.svg
   - title:
-      text: ''
+      text: コンテンツ一覧
       color: text-primary
       styles:
         self:
