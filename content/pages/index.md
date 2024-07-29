@@ -99,6 +99,7 @@ sections:
       type: TitleBlock
       text: Blog
       color: text-dark
+    subtitle: RooLone Magazineの
   - title: Divider
     colors: bg-light-fg-dark
     styles:
