@@ -26,7 +26,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: RooLone Magazine
-      backgroundSize: cover
+      backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 75
