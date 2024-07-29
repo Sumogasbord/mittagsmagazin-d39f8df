@@ -41,7 +41,7 @@ sections:
     subtitle: 公開予定のコンテンツ
     items:
       - title: 休み短しさまよえ旅人
-        tagline: Travel Diary
+        tagline: TRAVEL DIARY
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
