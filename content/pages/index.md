@@ -124,7 +124,7 @@ sections:
           RooLoneのSNS。
           アプリケーションにMisskeyを採用することで、一味違う楽しさを実現。
         features:
-          - Feature two
+          - ※現時点ではvandrare寄付者のみ受付
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
