@@ -10,11 +10,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ようこそ「さまよう旅人」のウェブサイトへ
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン
+      旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
     colors: bg-light-fg-dark
     styles:
       self:
