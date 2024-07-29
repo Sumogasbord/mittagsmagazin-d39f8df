@@ -61,6 +61,7 @@ sections:
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
+      - content/data/sumogasbord.json
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
