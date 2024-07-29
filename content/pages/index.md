@@ -154,7 +154,7 @@ sections:
 seo:
   metaTitle: RooLone Magazine
   metaDescription: RooLone Magazineのトップページです。
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/magazine_thumbnail.svg
   type: Seo
   addTitleSuffix: true
   metaTags: []
