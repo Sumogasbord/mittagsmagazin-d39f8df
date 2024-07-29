@@ -24,6 +24,8 @@ author: content/data/person2.json
 styles:
   self:
     flexDirection: col
+    margin:
+      - mt-3
 isFeatured: false
 ---
 
