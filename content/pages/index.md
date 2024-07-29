@@ -106,6 +106,10 @@ sections:
           - pr-16
         justifyContent: center
     subtitle: RooLone Magazine
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
