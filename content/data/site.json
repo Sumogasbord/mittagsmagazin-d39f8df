@@ -2,7 +2,7 @@
     "favicon": "/images/magazine_logo-object.svg",
     "footer": "content/data/footer.json",
     "titleSuffix": "RooLone Magazine",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/magazine_thumbnail.svg",
     "type": "Config",
     "header": "content/data/header.json"
 }
