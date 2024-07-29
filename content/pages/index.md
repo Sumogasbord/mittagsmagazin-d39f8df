@@ -106,6 +106,45 @@ sections:
           - pr-16
         justifyContent: center
     subtitle: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Informations
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/what-is-a-design-system.md
+    showThumbnail: false
+    showExcerpt: false
+    showDate: true
+    showAuthor: false
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    hoverEffect: thick-underline
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    subtitle: ''
   - type: PricingSection
     title:
       type: TitleBlock
@@ -151,36 +190,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
-      - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: false
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: thick-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
 seo:
   metaTitle: RooLone Magazine
   metaDescription: RooLone Magazineのトップページです。
