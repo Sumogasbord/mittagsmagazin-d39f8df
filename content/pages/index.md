@@ -2,33 +2,6 @@
 title: Home
 slug: /
 sections:
-  - title:
-      text: Welcome to RooLone Magazine
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ようこそ「さまよう旅人」のウェブサイトへ
-    text: |-
-      RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン  
-      旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-    backgroundImage:
-      type: BackgroundImage
-      altText: RooLone Magazine
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 75
-      url: /images/magazine_background.svg
   - type: GenericSection
     title:
       type: TitleBlock
