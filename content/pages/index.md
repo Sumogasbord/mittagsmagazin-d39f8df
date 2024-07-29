@@ -162,7 +162,7 @@ sections:
     posts:
       - content/pages/blog/what-is-a-design-system.md
     showThumbnail: false
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: false
     actions: []
