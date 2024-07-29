@@ -90,6 +90,34 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
+      text: Informations
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/what-is-a-design-system.md
+    showThumbnail: false
+    showExcerpt: false
+    showDate: true
+    showAuthor: false
+    actions: []
+    elementId: ''
+    variant: small-list
+    colors: bg-light-fg-dark
+    hoverEffect: thick-underline
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    subtitle: ''
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
       text: Blog
       color: text-dark
       styles:
@@ -162,34 +190,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Informations
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/what-is-a-design-system.md
-    showThumbnail: false
-    showExcerpt: false
-    showDate: true
-    showAuthor: false
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: thick-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    subtitle: ''
 seo:
   metaTitle: RooLone Magazine
   metaDescription: RooLone Magazineのトップページです。
