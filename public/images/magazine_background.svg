@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_名称未設定グラデーション);
+      }
+    </style>
+    <radialGradient id="_名称未設定グラデーション" data-name="名称未設定グラデーション" cx="-658.8" cy="3379.2" fx="-658.8" fy="3379.2" r="2333.6" gradientTransform="translate(1395.6 -3488) rotate(-180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd187"/>
+      <stop offset=".5" stop-color="#fff"/>
+      <stop offset=".6" stop-color="#fff"/>
+      <stop offset="1" stop-color="#3de9ff"/>
+    </radialGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="_レイヤー_2">
+      <g id="_レイヤー_1-2">
+        <rect class="cls-1" width="1920" height="1080"/>
+      </g>
+    </g>
+  </g>
+</svg>
