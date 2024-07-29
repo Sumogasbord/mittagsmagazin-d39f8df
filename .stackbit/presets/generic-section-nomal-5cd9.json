@@ -1,0 +1,56 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Nomal",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Text"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "Grow your business 10x faster",
+                    "color": "text-dark",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "subtitle": "This is a subtitle",
+                "text": "Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.\nAenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet\nerat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat\nvitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.",
+                "actions": [],
+                "media": null,
+                "badge": {
+                    "$$type": "Badge",
+                    "label": "Key Benefits",
+                    "color": "text-primary",
+                    "styles": {
+                        "self": {
+                            "textAlign": "center"
+                        }
+                    }
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "flexDirection": "col",
+                        "justifyContent": "center"
+                    },
+                    "subtitle": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-nomal-5cd9.png"
+        }
+    ]
+}
