@@ -153,7 +153,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: RooLone Magazine
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: RooLone Magazineのトップページです。
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
