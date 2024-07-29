@@ -117,7 +117,7 @@ sections:
     subtitle: Plainbox / RooLoneはこんなこともしています。
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Misskey Server
         price: Free
         details: No credit card required
         description: >-
