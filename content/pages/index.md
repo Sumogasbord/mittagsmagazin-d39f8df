@@ -32,7 +32,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Welcome to RooLone Magazine
       color: text-dark
       styles:
         self:
