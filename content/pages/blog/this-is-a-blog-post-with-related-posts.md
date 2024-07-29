@@ -19,7 +19,7 @@ featuredImage:
         - pr-0
 bottomSections:
   - type: DividerSection
-    title: Divider
+    title: Informations
     elementId: ''
     colors: bg-light-fg-dark
     styles:
