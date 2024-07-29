@@ -165,7 +165,7 @@ sections:
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
     showThumbnail: true
-    showExcerpt: false
+    showExcerpt: true
     showDate: true
     showAuthor: true
     actions: []
