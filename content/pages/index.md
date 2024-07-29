@@ -10,10 +10,9 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ようこそ「さまよう旅人」のウェブサイトへ
-    text: >+
-      \<div style="text-align: center">RooLone
-      Magazineは「さまよう旅人」へ向けたウェブマガジン旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です\</div>
-
+    text: |-
+      RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン  
+      旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
     colors: bg-light-fg-dark
     styles:
       self:
