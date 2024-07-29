@@ -105,7 +105,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    subtitle: RooLone Magazine
+    subtitle: ''
     badge:
       type: Badge
       label: This is a badge
