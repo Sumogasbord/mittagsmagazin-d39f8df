@@ -125,7 +125,6 @@ sections:
           アプリケーションにMisskeyを採用することで、一味違う楽しさを実現。
         features:
           - Feature two
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
