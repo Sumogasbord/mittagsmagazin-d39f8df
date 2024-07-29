@@ -156,7 +156,7 @@ seo:
   metaDescription: RooLone Magazineのトップページです。
   socialImage: /images/magazine_thumbnail.svg
   type: Seo
-  addTitleSuffix: true
+  addTitleSuffix: false
   metaTags: []
 type: PageLayout
 ---
