@@ -229,7 +229,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Welcome to RooLone Magazine
       color: text-dark
       styles:
         self:
