@@ -29,7 +29,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 75
+      opacity: 50
       url: /images/magazine_background.svg
   - type: GenericSection
     title:
