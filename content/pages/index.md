@@ -25,7 +25,7 @@ sections:
     type: GenericSection
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: RooLone Magazine
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
