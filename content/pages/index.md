@@ -157,7 +157,6 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 type: PageLayout
 ---
