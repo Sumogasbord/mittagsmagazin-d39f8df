@@ -179,6 +179,17 @@ sections:
           - pr-16
         justifyContent: center
     subtitle: ''
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-20
+          - pl-20
+          - pb-20
+          - pr-20
 seo:
   metaTitle: RooLone Magazine
   metaDescription: RooLone Magazineのトップページです。
