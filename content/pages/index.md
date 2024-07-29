@@ -105,6 +105,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+    subtitle: RooLone Magazine
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
