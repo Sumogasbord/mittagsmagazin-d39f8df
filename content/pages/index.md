@@ -32,7 +32,7 @@ sections:
       opacity: 50
       url: /images/magazine_background.svg
   - title:
-      text: List of features here
+      text: ''
       color: text-primary
       styles:
         self:
