@@ -1,8 +1,9 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/magazine_ico.ico",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "titleSuffix": "RooLone Magazine",
+    "defaultSocialImage": "/images/magazine_thumbnail.svg",
     "type": "Config",
-    "header": "content/data/header.json"
+    "header": "content/data/header.json",
+    "defaultMetaTags": []
 }
