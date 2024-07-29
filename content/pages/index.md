@@ -80,7 +80,7 @@ sections:
     title:
       type: TitleBlock
       text: Blog
-      color: text-neutral
+      color: text-dark
       styles:
         self:
           textAlign: center
