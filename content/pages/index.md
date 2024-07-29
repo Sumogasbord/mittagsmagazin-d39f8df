@@ -29,7 +29,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 100
+      opacity: 75
       url: /images/magazine_background.svg
   - title:
       text: List of features here
