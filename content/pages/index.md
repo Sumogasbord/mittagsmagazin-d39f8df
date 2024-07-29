@@ -64,7 +64,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: ''
-        tagline: ''
+        tagline: TRANSPORT NEWS
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
