@@ -25,7 +25,10 @@ styles:
   self:
     flexDirection: col
     margin:
-      - mt-0
+      - mt-3
+      - ml-3
+      - mb-3
+      - mr-3
 isFeatured: false
 ---
 
