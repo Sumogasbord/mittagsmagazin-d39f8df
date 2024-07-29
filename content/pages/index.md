@@ -42,7 +42,7 @@ sections:
     items:
       - title: 休み短しさまよえ旅人
         tagline: TRAVEL DIARY
-        subtitle: 旅行記
+        subtitle: 旅行記集
         text: |
           Sumögåsbordの旅行記集です。
         image:
