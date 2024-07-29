@@ -124,7 +124,6 @@ sections:
           RooLoneのSNS。
           アプリケーションにMisskeyを採用することで、一味違う楽しさを実現。
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
