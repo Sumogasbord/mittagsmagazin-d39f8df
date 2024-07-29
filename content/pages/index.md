@@ -33,7 +33,7 @@ sections:
       url: /images/magazine_background.svg
   - title:
       text: Contents
-      color: text-primary
+      color: text-dark
       styles:
         self:
           textAlign: center
