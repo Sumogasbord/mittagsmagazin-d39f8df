@@ -44,7 +44,7 @@ sections:
         tagline: TRAVEL DIARY
         subtitle: 旅行記
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          Sumögåsbordの旅行記集です。
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
