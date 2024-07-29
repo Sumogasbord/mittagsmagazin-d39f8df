@@ -120,9 +120,9 @@ sections:
         title: Misskey Server
         price: RooLone Hangout
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          RooLoneのSNS。
+          アプリケーションにMisskeyを採用することで、一味違う楽しさを実現。
         features:
           - Feature one
           - Feature two
