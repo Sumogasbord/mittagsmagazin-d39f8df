@@ -94,7 +94,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: small-list
+    variant: three-col-grid
     colors: bg-light-fg-dark
     hoverEffect: thick-underline
     styles:
