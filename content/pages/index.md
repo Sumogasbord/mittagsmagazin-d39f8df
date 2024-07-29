@@ -23,6 +23,13 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
