@@ -63,7 +63,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: ''
+      - title: Trazappo
         tagline: TRANSPORT NEWS
         subtitle: This is the item subtitle
         text: |
