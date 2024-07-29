@@ -96,7 +96,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
-    hoverEffect: thin-underline
+    hoverEffect: thick-underline
     styles:
       self:
         padding:
