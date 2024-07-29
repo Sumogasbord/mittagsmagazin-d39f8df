@@ -169,7 +169,7 @@ sections:
     elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
-    hoverEffect: shadow
+    hoverEffect: thick-underline
     styles:
       self:
         padding:
