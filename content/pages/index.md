@@ -40,7 +40,7 @@ sections:
       type: TitleBlock
     subtitle: 公開予定のコンテンツ
     items:
-      - title: 休み短しさまよう旅人
+      - title: 休み短しさまよえ旅人
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
