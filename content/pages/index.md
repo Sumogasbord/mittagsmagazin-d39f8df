@@ -109,7 +109,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Other Contents
       color: text-dark
       styles:
         self:
