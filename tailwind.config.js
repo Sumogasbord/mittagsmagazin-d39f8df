@@ -23,7 +23,7 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['neue-haas-unica', 'zen-kaku-gothic-new','sans-serif'],
+                sans: ['neue-haas-unica', 'dnp-shuei-gothic-kin-std','sans-serif'],
                 serif: ['antonia-variable', 'dnp-shuei-mincho-pr6', 'serif']
             },
             gridTemplateColumns: {
