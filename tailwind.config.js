@@ -23,7 +23,7 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['parabolica-text', 'hiragino-kaku-gothic-pron', 'sans-serif'],
+                sans: ['parabolica-text', 'fot-udkakugo-large-pr6n', 'sans-serif'],
                 serif: ['Roboto Slab', 'serif']
             },
             gridTemplateColumns: {
