@@ -23,8 +23,8 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['parabolica-text', 'zen-kaku-gothic-new','sans-serif'],
-                serif: ['Roboto Slab', 'serif']
+                sans: ['overpass-variable', 'zen-kaku-gothic-new','sans-serif'],
+                serif: ['antonia-variable', 'dnp-shuei-mincho-pr6', 'serif']
             },
             gridTemplateColumns: {
                 16: 'repeat(16, minmax(0, 1fr))'
