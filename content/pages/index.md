@@ -11,9 +11,9 @@ sections:
         self:
           textAlign: left
     subtitle: ようこそ「さまよう旅人」のウェブサイトへ
-    text: >
-      １２３４５RooLone
-      Magazineは「さまよう旅人」へ向けたウェブマガジン旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
+    text: |
+      RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン  
+      旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
     actions: []
     colors: bg-light-fg-dark
     styles:
