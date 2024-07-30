@@ -23,7 +23,7 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['neulis-sans', 'source-han-sans-japanese', 'sans-serif'],
+                sans: ['parabolica-text', 'zen-kaku-gothic-new','sans-serif'],
                 serif: ['Roboto Slab', 'serif']
             },
             gridTemplateColumns: {
