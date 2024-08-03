@@ -23,7 +23,7 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['overpass-variable', 'zen-kaku-gothic-new','sans-serif'],
+                sans: ['salis-mvb', 'source-han-sans-cjk-ja','sans-serif'],
                 serif: ['antonia-variable', 'dnp-shuei-mincho-pr6', 'serif']
             },
             gridTemplateColumns: {
