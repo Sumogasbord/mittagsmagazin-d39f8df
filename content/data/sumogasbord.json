@@ -1,0 +1,36 @@
+{
+    "type": "Person",
+    "name": "Sumögåsbord",
+    "role": "Master / Desinger",
+    "bio": "やぁ！さまよう「いんたーねっつ★座敷童子」だよ！  \nイギリス系スウェーデン風な生粋の日本人！  \nミルクティーはミルク先入れ派だよ！  \nそういう人間だい！よろしく！  \n",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/夏 - ラフ(標85楽25) - ド・ドアップ.png",
+        "altText": "Sumögåsbord",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        }
+    },
+    "colors": "bg-light-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    }
+}
