@@ -1,5 +1,5 @@
 {
-    "favicon": "/images/magazine_ico.ico",
+    "favicon": "/images/magazine_ico.jpg",
     "footer": "content/data/footer.json",
     "titleSuffix": "RooLone Magazine",
     "defaultSocialImage": "/images/magazine_thumbnail.svg",
