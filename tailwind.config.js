@@ -23,7 +23,7 @@ module.exports = {
                 primary: themeStyle.primary
             },
             fontFamily: {
-                sans: ['salis-mvb', 'm-plus-2p','sans-serif'],
+                sans: ['salis-mvb', 'source-han-sans-cjk-ja','sans-serif'],
                 serif: ['antonia-variable', 'dnp-shuei-mincho-pr6', 'serif']
             },
             gridTemplateColumns: {
