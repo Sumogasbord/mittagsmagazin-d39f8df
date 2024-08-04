@@ -108,10 +108,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/life-of-our-development-team.md
-      - content/pages/blog/surround-yourself-with-right-people.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -149,8 +146,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/what-is-a-design-system.md
+    posts: []
     showThumbnail: false
     showExcerpt: false
     showDate: true
