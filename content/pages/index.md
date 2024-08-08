@@ -191,7 +191,7 @@ sections:
         actions:
           - type: Button
             label: Join us!
-            url: /
+            url: 'https://misskey.roolone.me'
             icon: arrowRight
             iconPosition: right
             style: primary
