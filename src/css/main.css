@@ -7,6 +7,10 @@
 @layer base {
     body {
         @apply text-base;
+        -webkit-font-smoothing: antialiased;
+        -moz-font-smoothing: antialiased;
+        -ms-font-smoothing: antialiased;
+        -o-font-smoothing: antialiased;
     }
 
     h1,
