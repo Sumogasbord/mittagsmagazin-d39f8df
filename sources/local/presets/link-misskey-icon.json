@@ -1,0 +1,19 @@
+{
+  "model": "Link",
+  "presets": [
+    {
+      "label": "Misskey icon",
+      "thumbnail": "images/link-misskey-icon-f239a.png",
+      "data": {
+        "label": null,
+        "altText": "Misskey",
+        "url": "/",
+        "showIcon": true,
+        "icon": "misskey",
+        "iconPosition": "left",
+        "style": "secondary",
+        "elementId": ""
+      }
+    }
+  ]
+}
