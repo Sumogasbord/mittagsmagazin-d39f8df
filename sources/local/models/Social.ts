@@ -51,6 +51,10 @@ export const Social: Model = {
           value: 'linkedin'
         },
         {
+          label: 'Misskey',
+          value: 'misskey'
+        },
+        {
           label: 'Mail',
           value: 'mail'
         },
