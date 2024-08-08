@@ -92,6 +92,13 @@
                         "$$type": "Social"
                     },
                     {
+                        "altText": "Misskey link",
+                        "url": "https://misskey.roolone.me",
+                        "icon": "misskey",
+                        "elementId": null,
+                        "$$type": "Social"
+                    },
+                    {
                         "altText": "Twitter link",
                         "url": "https://twitter.com/netlify",
                         "icon": "twitter",
