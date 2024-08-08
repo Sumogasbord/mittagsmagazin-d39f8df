@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default function Twitter({ className, ...props }) {
+export default function Misskey({ className, ...props }) {
     return (
         <svg className={className} viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" data-sb-field-path={props['data-sb-field-path']}>
             <path d="M2.6,0c-.3,0-.6,0-.9.2-.5.2-.9.5-1.2,1C.2,1.6,0,2.1,0,2.6v9.8C0,13.1.2,13.7.8,14.2c.5.5,1.1.8,1.9.8s1.4-.2,1.9-.8c.5-.5.8-1.1.8-1.9v-1.8c0-.4.4-.3.6,0,.4.6,1.2,1.2,2.1,1.2s1.7-.5,2.1-1.2c.1-.2.6-.5.6,0v1.8c0,.7.2,1.3.8,1.9.5.5,1.1.8,1.9.8s1.4-.2,1.9-.8c.5-.5.8-1.1.8-1.9V2.6c0-.5-.2-1-.5-1.5-.3-.5-.7-.8-1.2-1-.3,0-.6-.1-.9-.1-.8,0-1.5.3-2,.9l-2.6,3.1c0,0-.3.4-.7.4s-.6-.3-.7-.4L4.6.9c-.5-.6-1.2-.9-2-.9Z" />
