@@ -106,10 +106,6 @@ export const Link: Model = {
           value: 'linkedin'
         },
         {
-          label: 'Misskey',
-          value: 'misskey'
-        },
-        {
           label: 'Mail',
           value: 'mail'
         },
@@ -124,6 +120,10 @@ export const Link: Model = {
         {
           label: 'Send',
           value: 'send'
+        },
+        {
+          label: 'Misskey',
+          value: 'misskey'
         },
         {
           label: 'Shopping bag',
