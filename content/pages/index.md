@@ -186,7 +186,7 @@ sections:
           - ※現時点ではvandrare寄付者のみ受付
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Hungout_thumbnail.svg
           altText: Pricing plan 1
         actions:
           - type: Button
