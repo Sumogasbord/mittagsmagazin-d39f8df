@@ -47,7 +47,7 @@ sections:
         altText: Play
         url: /
         showIcon: true
-        icon: mail
+        icon: misskey
         iconPosition: right
         style: secondary
         elementId: ''
