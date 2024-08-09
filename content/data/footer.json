@@ -26,14 +26,6 @@
                 "type": "Link"
             },
             {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
                 "type": "Link",
                 "altText": "Misskey",
                 "url": "https://misskey.roolone.me",
