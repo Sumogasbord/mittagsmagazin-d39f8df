@@ -36,7 +36,7 @@
             {
                 "type": "Link",
                 "altText": "Misskey",
-                "url": "/",
+                "url": "https://misskey.roolone.me",
                 "showIcon": true,
                 "icon": "misskey",
                 "iconPosition": "left",
