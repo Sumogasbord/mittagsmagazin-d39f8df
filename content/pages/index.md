@@ -186,16 +186,16 @@ sections:
           - ※現時点ではvandrare寄付者のみ受付
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Hungout_thumbnail.svg
           altText: Pricing plan 1
         actions:
           - type: Button
             label: Join us!
-            url: /
+            url: 'https://misskey.roolone.me'
             icon: arrowRight
             iconPosition: right
-            style: secondary
-        colors: bg-neutralAlt-fg-dark
+            style: primary
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
