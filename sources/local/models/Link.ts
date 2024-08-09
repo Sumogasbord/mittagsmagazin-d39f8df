@@ -122,6 +122,10 @@ export const Link: Model = {
           value: 'send'
         },
         {
+          label: 'Misskey',
+          value: 'misskey'
+        },
+        {
           label: 'Shopping bag',
           value: 'shoppingBag'
         },

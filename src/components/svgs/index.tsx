@@ -42,7 +42,7 @@ export const iconMap = {
     linkedin: LinkedIn,
     mail: Mail,
     menu: Menu,
-    missskey: Misskey,
+    misskey: Misskey,
     play: Play,
     reddit: Reddit,
     send: Send,

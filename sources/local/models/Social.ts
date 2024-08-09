@@ -63,6 +63,10 @@ export const Social: Model = {
           value: 'reddit'
         },
         {
+          label: 'Misskey',
+          value: 'misskey'
+        },
+        {
           label: 'Twitter',
           value: 'twitter'
         },
