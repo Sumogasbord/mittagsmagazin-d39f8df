@@ -57,7 +57,6 @@ sections:
           textAlign: center
     people:
       - content/data/person3.json
-      - content/data/person4.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
