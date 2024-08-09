@@ -68,8 +68,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/life-of-our-development-team.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
