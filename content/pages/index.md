@@ -66,7 +66,7 @@ sections:
       - type: FeaturedItem
         title: 豊かな国で逢いましょう
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: 大分県内旅行指南
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
