@@ -55,6 +55,10 @@ export const Social: Model = {
           value: 'mail'
         },
         {
+          label: 'Misskey',
+          value: 'misskey'
+        },
+        {
           label: 'Reddit',
           value: 'reddit'
         },

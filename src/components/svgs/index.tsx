@@ -15,6 +15,7 @@ import Instagram from './instagram';
 import LinkedIn from './linkedin';
 import Mail from './mail';
 import Menu from './menu';
+import Misskey from './misskey';
 import Play from './play';
 import Reddit from './reddit';
 import Send from './send';
@@ -41,6 +42,7 @@ export const iconMap = {
     linkedin: LinkedIn,
     mail: Mail,
     menu: Menu,
+    missskey: Misskey,
     play: Play,
     reddit: Reddit,
     send: Send,
