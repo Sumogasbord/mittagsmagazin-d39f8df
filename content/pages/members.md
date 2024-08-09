@@ -38,6 +38,10 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
