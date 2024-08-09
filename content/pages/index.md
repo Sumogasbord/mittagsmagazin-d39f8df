@@ -189,7 +189,8 @@ sections:
           - ※現時点ではvandrare寄付者のみ受付
         image:
           type: ImageBlock
-          url: /images/Hungout_thumbnail.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208832/Hungout_thumbnail_he3f7j.svg
           altText: Pricing plan 1
         actions:
           - type: Button
