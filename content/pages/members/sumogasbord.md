@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Sumögåsbord
+    subtitle: Master / Desinger
     text: ''
     actions: []
     colors: bg-light-fg-dark
