@@ -71,7 +71,8 @@ sections:
           大分県内に長年暮らす旅人が、他の都道府県にお住まいの旅人へ向けた旅行時の注意事項を紹介する企画です。
         image:
           type: ImageBlock
-          url: /images/magazine_thumbnail.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
           altText: Placeholder text
           styles:
             self:
