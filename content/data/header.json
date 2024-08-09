@@ -13,42 +13,6 @@
     },
     "primaryLinks": [
         {
-            "type": "Link",
-            "label": "Menbers",
-            "altText": "",
-            "url": "/members",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Contents",
-            "altText": "Contents",
-            "links": [
-                {
-                    "label": "休み短しさまよえ旅人",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "SubNav",
             "label": "Member",
             "altText": "Member of RooLone",
@@ -88,6 +52,42 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Menbers",
+            "altText": "",
+            "url": "/members",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Contents",
+            "altText": "Contents",
+            "links": [
+                {
+                    "label": "休み短しさまよえ旅人",
+                    "url": "/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
+                }
+            ],
+            "labelStyle": "secondary",
+            "type": "SubNav"
         }
     ],
     "secondaryLinks": [],
