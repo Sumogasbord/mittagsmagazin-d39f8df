@@ -63,7 +63,14 @@ sections:
         textAlign: center
   - type: ImageGallerySection
     subtitle: Our customers
-    images: []
+    images:
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
