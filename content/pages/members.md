@@ -11,12 +11,9 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: |
+      RooLoneの運営・企画などを行っているチームメンバーを紹介しましょう。
+      といっても一人ですが。
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
