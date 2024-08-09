@@ -63,7 +63,18 @@
             "elementId": ""
         }
     ],
-    "legalLinks": [],
+    "legalLinks": [
+        {
+            "type": "Link",
+            "altText": "Misskey",
+            "url": "/",
+            "showIcon": true,
+            "icon": "misskey",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "copyrightText": "RooLone Magazine is managed and operated by [Plainbox](https://plainbox.net)  \n© Plainbox MMXXIV\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
