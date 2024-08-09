@@ -1,6 +1,6 @@
 {
     "logo": {
-        "url": "/images/magazin_full_mini.svg",
+        "url": "https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208768/magazin_full_mini_bmtgbn.svg",
         "altText": "RooLone Magazine",
         "styles": {
             "self": {
@@ -12,6 +12,36 @@
         "type": "ImageBlock"
     },
     "primaryLinks": [
+        {
+            "type": "SubNav",
+            "label": "Member",
+            "altText": "Member of RooLone",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "All Members",
+                    "altText": "",
+                    "url": "/members",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Sumögåsbord",
+                    "altText": "",
+                    "url": "/members/sumogasbord",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
         {
             "label": "Blog",
             "altText": "Blog",

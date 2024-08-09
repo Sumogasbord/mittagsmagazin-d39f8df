@@ -30,7 +30,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 50
-      url: /images/magazine_background.svg
+      url: >-
+        http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
   - title:
       text: Contents
       color: text-dark
@@ -46,7 +47,8 @@ sections:
         text: |
           Sumögåsbordの旅行記集です。
         image:
-          url: /images/magazine_thumbnail.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
           altText: Placeholder Image
           styles:
             self:
@@ -64,14 +66,15 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        title: 豊かな国で逢いましょう
+        tagline: HOW TO TRAVEL IN OITA
+        subtitle: 大分県内旅行指南
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          大分県内に長年暮らす旅人が、他の都道府県にお住まいの旅人へ向けた旅行時の注意事項を紹介する企画です。
         image:
           type: ImageBlock
-          url: /images/magazine_thumbnail.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
           altText: Placeholder text
           styles:
             self:
@@ -186,7 +189,8 @@ sections:
           - ※現時点ではvandrare寄付者のみ受付
         image:
           type: ImageBlock
-          url: /images/Hungout_thumbnail.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208832/Hungout_thumbnail_he3f7j.svg
           altText: Pricing plan 1
         actions:
           - type: Button
