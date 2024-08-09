@@ -58,7 +58,7 @@ sections:
     people:
       - content/data/sumogasbord.json
     actions: []
-    variant: mixed-grid
+    variant: four-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
