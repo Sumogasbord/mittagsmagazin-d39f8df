@@ -65,7 +65,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: 豊かな国で逢いましょう
-        tagline: This is the tagline
+        tagline: HOW TO TRAVEL IN OITA
         subtitle: 大分県内旅行指南
         text: |
           大分県内に長年暮らす旅人が、他の都道府県にお住まいの旅人へ向けた旅行時の注意事項を紹介する企画です。
