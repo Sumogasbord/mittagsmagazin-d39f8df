@@ -48,7 +48,7 @@ sections:
         url: /
         showIcon: true
         icon: misskey
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
     colors: bg-light-fg-dark
