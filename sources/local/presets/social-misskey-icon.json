@@ -6,7 +6,7 @@
       "thumbnail": "images/social-misskey-icon-32be1.png",
       "data": {
         "altText": "Misskey link",
-        "url": "https://misskey.roolone.me/",
+        "url": "/",
         "icon": "misskey",
         "elementId": ""
       }
