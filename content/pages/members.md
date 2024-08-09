@@ -62,7 +62,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: ''
     items: []
     actions: []
     variant: toggle-list
