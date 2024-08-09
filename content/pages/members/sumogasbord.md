@@ -52,7 +52,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: 最新の記事
       color: text-dark
       styles:
         self:
