@@ -23,7 +23,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Menbers",
             "altText": "",
             "url": "/members",
             "showIcon": false,
