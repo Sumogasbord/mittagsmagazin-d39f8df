@@ -30,7 +30,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 50
-      url: /images/magazine_background.svg
+      url: >-
+        http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
   - title:
       text: Contents
       color: text-dark
