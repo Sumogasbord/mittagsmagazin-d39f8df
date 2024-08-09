@@ -48,7 +48,15 @@ sections:
           textAlign: center
     people:
       - content/data/sumogasbord.json
-    actions: []
+    actions:
+      - type: Link
+        altText: Misskey
+        url: /
+        showIcon: true
+        icon: misskey
+        iconPosition: left
+        style: secondary
+        elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
