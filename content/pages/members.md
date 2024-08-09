@@ -65,7 +65,7 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/夏 - ラフ(標85楽25) - ド・ドアップ.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
