@@ -59,15 +59,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "type": "Social",
-            "altText": "Misskey link",
-            "url": "https://misskey.roolone.me/",
-            "icon": "mail",
-            "elementId": ""
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "RooLone Magazine is managed and operated by [Plainbox](https://plainbox.net)  \n© Plainbox MMXXIV\n",
     "colors": "bg-dark-fg-light",
