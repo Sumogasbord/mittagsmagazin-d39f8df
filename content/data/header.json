@@ -21,7 +21,7 @@
                     "type": "Link",
                     "label": "All Members",
                     "altText": "",
-                    "url": "/",
+                    "url": "/members",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
