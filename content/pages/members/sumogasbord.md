@@ -29,11 +29,11 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      ## Sumögåsbord
+
+
+      ![](/images/%E5%A4%8F%20-%20%E3%83%A9%E3%83%95\(%E6%A8%9985%E6%A5%BD25\)%20-%20%E3%83%89%E3%83%BB%E3%83%89%E3%82%A2%E3%83%83%E3%83%97.png)SumögåsbordはPlainboxのサークル主であり、RooLoneの管理人である。
     actions: []
     colors: bg-light-fg-dark
     styles:
