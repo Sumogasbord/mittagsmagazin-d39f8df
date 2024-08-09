@@ -13,7 +13,7 @@ sections:
     subtitle: Master / Desinger / Engineer
     text: ''
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         flexDirection: col
