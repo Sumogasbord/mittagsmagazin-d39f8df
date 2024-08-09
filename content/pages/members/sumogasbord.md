@@ -41,7 +41,15 @@ sections:
     text: |+
       SumögåsbordはPlainboxのサークル主であり、RooLoneの管理人である。
 
-    actions: []
+    actions:
+      - type: Link
+        altText: Misskey
+        url: /
+        showIcon: true
+        icon: misskey
+        iconPosition: left
+        style: secondary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
