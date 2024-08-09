@@ -32,6 +32,16 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "altText": "Misskey",
+                "url": "/",
+                "showIcon": true,
+                "icon": "misskey",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
