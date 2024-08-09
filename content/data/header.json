@@ -43,17 +43,6 @@
             "labelStyle": "secondary"
         },
         {
-            "type": "Link",
-            "label": "Menbers",
-            "altText": "",
-            "url": "/members",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
-        },
-        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
