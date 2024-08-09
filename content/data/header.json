@@ -50,7 +50,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Member",
             "altText": "Dropdown",
             "links": [
                 {
