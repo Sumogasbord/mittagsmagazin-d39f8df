@@ -38,10 +38,9 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |
-      ## Sumögåsbord
-
+    text: |+
       SumögåsbordはPlainboxのサークル主であり、RooLoneの管理人である。
+
     actions: []
     colors: bg-light-fg-dark
     styles:
