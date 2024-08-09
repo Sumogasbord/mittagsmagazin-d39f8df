@@ -51,7 +51,7 @@
         {
             "type": "SubNav",
             "label": "Member",
-            "altText": "Dropdown",
+            "altText": "Member of RooLone",
             "links": [
                 {
                     "type": "Link",
