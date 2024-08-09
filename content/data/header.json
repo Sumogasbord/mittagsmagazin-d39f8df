@@ -19,7 +19,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "All Members",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,
