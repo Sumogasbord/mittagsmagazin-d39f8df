@@ -64,7 +64,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - type: FeaturedItem
-        title: Feature Item One
+        title: 豊かな国で逢いましょう
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
