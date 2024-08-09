@@ -68,7 +68,7 @@ sections:
         tagline: This is the tagline
         subtitle: 大分県内旅行指南
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          大分県内に長年暮らす旅人が、他の都道府県にお住まいの旅人へ向けた旅行時の注意事項を紹介する企画です。
         image:
           type: ImageBlock
           url: /images/magazine_thumbnail.svg
