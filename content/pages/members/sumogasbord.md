@@ -49,7 +49,7 @@ sections:
         showIcon: true
         icon: misskey
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     colors: bg-light-fg-dark
     styles:
