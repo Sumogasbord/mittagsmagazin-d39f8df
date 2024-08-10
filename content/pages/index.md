@@ -70,7 +70,7 @@ sections:
         tagline: DIARY OF OITA
         subtitle: 大分県内に関する雑記
         text: |
-          大分県内に長年暮らす旅人が、他の都道府県にお住まいの旅人へ向けた旅行時の注意事項を紹介する企画です。
+          地元・大分県内のアレコレを書いた企画です。特にジャンルは決めていません。
         image:
           type: ImageBlock
           url: >-
