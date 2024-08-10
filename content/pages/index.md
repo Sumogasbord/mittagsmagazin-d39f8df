@@ -48,7 +48,7 @@ sections:
           Sumögåsbordの旅行記集です。
         image:
           url: >-
-            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -67,10 +67,10 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: 豊かな国で逢いましょう
-        tagline: HOW TO TRAVEL IN OITA
-        subtitle: 大分県内旅行指南
+        tagline: DIARY OF OITA
+        subtitle: 大分県内に関する雑記
         text: |
-          大分県内に長年暮らす旅人が、他の都道府県にお住まいの旅人へ向けた旅行時の注意事項を紹介する企画です。
+          地元・大分県内のアレコレを書いた企画です。特にジャンルは決めていません。
         image:
           type: ImageBlock
           url: >-
