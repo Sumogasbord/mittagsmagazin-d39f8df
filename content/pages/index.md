@@ -68,7 +68,7 @@ sections:
       - type: FeaturedItem
         title: 豊かな国で逢いましょう
         tagline: DIARY OF OITA
-        subtitle: 大分県内雑記
+        subtitle: 大分県内に関する雑記
         text: |
           大分県内に長年暮らす旅人が、他の都道府県にお住まいの旅人へ向けた旅行時の注意事項を紹介する企画です。
         image:
