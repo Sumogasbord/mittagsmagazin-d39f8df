@@ -48,7 +48,7 @@ sections:
           Sumögåsbordの旅行記集です。
         image:
           url: >-
-            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
           altText: Placeholder Image
           styles:
             self:
