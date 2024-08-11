@@ -49,7 +49,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: change_to_ulcv-8000
+slug: from-toyonokuni/change_to_ulcv-8000
 isFeatured: false
 isDraft: false
 seo:
