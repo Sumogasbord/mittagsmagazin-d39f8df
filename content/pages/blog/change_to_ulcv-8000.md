@@ -2,7 +2,6 @@
 type: PostLayout
 title: さよなら？食券型券売機
 date: '2022-10-10'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
