@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: ようこそ「さまよう旅人」のウェブサイトへ
+    subtitle: ようこそ「さまよう旅人」のためのウェブサイトへ
     text: |
       RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン  
       旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
