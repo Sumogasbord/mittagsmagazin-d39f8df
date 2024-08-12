@@ -93,7 +93,7 @@ sections:
           - type: Button
             label: 記事一覧
             altText: ''
-            url: /diary-oita
+            url: discover-oita
             showIcon: false
             icon: arrowRight
             iconPosition: right
