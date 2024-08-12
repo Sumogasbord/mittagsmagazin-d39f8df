@@ -67,7 +67,8 @@
                 "icon": "misskey",
                 "iconPosition": "left",
                 "style": "secondary",
-                "elementId": ""
+                "elementId": "",
+                "label": "RooLone Hangout"
             }
         ]
     }
