@@ -68,7 +68,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: ''
+        title: 豊かな国で逢いましょう
         tagline: Discover Oita
         subtitle: ''
         text: |
