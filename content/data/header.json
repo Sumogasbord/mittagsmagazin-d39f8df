@@ -59,7 +59,7 @@
                 {
                     "type": "Link",
                     "label": "休み短しさまよえ旅人",
-                    "altText": "wandaring",
+                    "altText": "休み短しさまよえ旅人",
                     "url": "/wandaring",
                     "showIcon": false,
                     "icon": "arrowRight",
