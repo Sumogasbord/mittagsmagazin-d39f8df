@@ -11,11 +11,9 @@ sections:
         self:
           textAlign: left
     subtitle: TRAVEL DIARY
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      Sumögåsbordの旅行記集。
+      2024年秋以降の旅行記を掲載しています。
     actions: []
     colors: bg-light-fg-dark
     styles:
