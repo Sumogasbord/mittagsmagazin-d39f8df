@@ -65,6 +65,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: 記事一覧
+            altText: ''
+            url: /wandering
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - type: FeaturedItem
         title: 豊かな国で逢いましょう
         tagline: DIARY OF OITA
@@ -79,7 +89,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: 記事一覧
+            altText: ''
+            url: /diary-oita
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
@@ -103,33 +122,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Blog
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts: []
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: thick-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    subtitle: ''
   - type: DividerSection
     title: Divider
     elementId: ''
