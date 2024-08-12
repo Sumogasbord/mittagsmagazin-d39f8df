@@ -93,7 +93,7 @@ sections:
           - type: Button
             label: 記事一覧
             altText: ''
-            url: /diary-oita
+            url: /discover-oita
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -122,17 +122,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
