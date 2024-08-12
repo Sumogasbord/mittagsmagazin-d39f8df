@@ -149,52 +149,6 @@ sections:
           - pr-16
         justifyContent: center
     subtitle: ''
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Other Contents
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Plainbox / RooLoneはこんなこともしています。
-    plans:
-      - type: PricingPlan
-        title: Misskey Server
-        price: RooLone Hangout
-        details: ''
-        description: |
-          RooLoneのSNS。
-          アプリケーションにMisskeyを採用することで、一味違う楽しさを実現。
-        features:
-          - ※現時点ではvandrare寄付者のみ受付
-        image:
-          type: ImageBlock
-          url: >-
-            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208832/Hungout_thumbnail_he3f7j.svg
-          altText: Pricing plan 1
-        actions:
-          - type: Button
-            label: Join us!
-            url: 'https://misskey.roolone.me'
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
 seo:
   metaTitle: RooLone Magazine
   metaDescription: RooLone Magazineのトップページです。
