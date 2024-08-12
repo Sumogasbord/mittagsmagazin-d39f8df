@@ -16,17 +16,6 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
-            {
-                "type": "Link",
-                "altText": "Misskey",
-                "url": "https://misskey.roolone.me",
-                "showIcon": true,
-                "icon": "misskey",
-                "iconPosition": "left",
-                "style": "secondary",
-                "elementId": "",
-                "label": "RooLone Hungout"
             }
         ],
         "type": "FooterLinksGroup"
