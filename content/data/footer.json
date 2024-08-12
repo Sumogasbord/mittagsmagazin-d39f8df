@@ -50,17 +50,6 @@
         "links": [
             {
                 "type": "Link",
-                "label": "RooLone Hangout",
-                "altText": "\"RooLone Hangout\"はRooLoneブランドのMisskeyサーバーです。",
-                "url": "https://misskey.roolone.me",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
                 "altText": "Misskey",
                 "url": "https://misskey.roolone.me",
                 "showIcon": true,
