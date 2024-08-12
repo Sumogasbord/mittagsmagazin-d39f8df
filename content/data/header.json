@@ -70,7 +70,7 @@
                 {
                     "type": "Link",
                     "label": "豊かな国で逢いましょう",
-                    "altText": "",
+                    "altText": "豊かな国で逢いましょう",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
