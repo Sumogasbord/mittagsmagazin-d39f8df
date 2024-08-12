@@ -67,7 +67,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: こちら
             altText: ''
             url: /wandering
             showIcon: false
