@@ -110,7 +110,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
     actions: []
-    variant: toggle-list
+    variant: big-list
     colors: bg-light-fg-dark
     styles:
       self:
