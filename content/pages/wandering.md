@@ -34,7 +34,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: 最新の記事
+      text: Latest Update
       color: text-dark
       styles:
         self:
