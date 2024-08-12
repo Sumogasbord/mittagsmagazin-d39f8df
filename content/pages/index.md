@@ -43,7 +43,7 @@ sections:
     subtitle: シリーズ記事
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: 休み短しさまよえ旅人
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
