@@ -2,10 +2,39 @@
 type: PageLayout
 title: 休み短しさまよえ旅人
 sections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: 休み短しさまよえ旅人
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: TRAVEL DIARY
+    text: |
+      Sumögåsbordの旅行記集。
+      2024年秋以降の旅行記を掲載しています。
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 25
+      url: >-
+        https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Latest Update
       color: text-dark
       styles:
         self:
