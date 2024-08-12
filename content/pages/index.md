@@ -45,7 +45,7 @@ sections:
       - type: FeaturedItem
         title: 休み短しさまよえ旅人
         tagline: Travel Diary
-        subtitle: This is the item subtitle
+        subtitle: Sumögåsbord
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
