@@ -37,7 +37,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: 大分県内に関する雑記
     text: |
       地元・大分県内のアレコレを書いた企画です。
       特にジャンルは決めていません。
