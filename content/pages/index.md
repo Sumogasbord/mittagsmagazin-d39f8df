@@ -67,7 +67,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: こちら
+            label: 記事一覧
             altText: ''
             url: /wandering
             showIcon: false
