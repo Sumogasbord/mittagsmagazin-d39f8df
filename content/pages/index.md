@@ -72,7 +72,7 @@ sections:
         tagline: Discover Oita
         subtitle: ''
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          地元・大分県内のアレコレを書いたものです。
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
