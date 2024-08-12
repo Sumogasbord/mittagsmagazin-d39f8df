@@ -87,7 +87,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-slug: about_sumogasbord
+slug: about-sumogasbord
 isDraft: false
 seo:
   type: Seo
