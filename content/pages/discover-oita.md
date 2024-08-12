@@ -30,35 +30,6 @@ sections:
       opacity: 25
       url: >-
         https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: 豊かな国で逢いましょう
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: 大分県内に関する雑記
-    text: |
-      地元・大分県内のアレコレを書いた企画です。
-      特にジャンルは決めていません。
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: ''
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 50
-      url: >-
-        https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
