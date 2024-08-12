@@ -47,7 +47,8 @@ sections:
         tagline: Travel Diary
         subtitle: Sumögåsbord
         text: |
-          Follow the tutorial to build your first Netlify site.
+          「さまよういんたーねっつ★座敷童子」」であるSumögåsbordの旅行記です。
+          主に国内旅行中心です。
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
