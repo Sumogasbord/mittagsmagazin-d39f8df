@@ -44,7 +44,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 休み短しさまよえ旅人
-        tagline: This is the tagline
+        tagline: Travel Diary
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
