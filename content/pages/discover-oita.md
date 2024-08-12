@@ -9,32 +9,31 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
     subtitle: 大分県内に関する雑記
     text: |
-      地元・大分県内のアレコレを書いた企画です。
-      特にジャンルは決めていません。
+      地元・大分県内のアレコレを書いたものです。
     actions: []
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: col
+        flexDirection: row
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: left
     backgroundImage:
       type: BackgroundImage
       altText: ''
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 50
+      opacity: 25
       url: >-
         https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Latest Update
       color: text-dark
       styles:
         self:
