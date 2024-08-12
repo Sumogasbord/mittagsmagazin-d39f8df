@@ -42,7 +42,7 @@ export const config = defineStackbitConfig({
                         };
                     case 'PostLayout':
                         return {
-                            urlPath: `/articles/${slug}`,
+                            urlPath: `/blog/${slug}`,
                             document: document
                         };
                     default:
