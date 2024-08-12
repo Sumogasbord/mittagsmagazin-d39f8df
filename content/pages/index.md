@@ -85,7 +85,8 @@ sections:
           地元・大分県内のアレコレを書いたものです。
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
           altText: Placeholder image
           styles:
             self:
