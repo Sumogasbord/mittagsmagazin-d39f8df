@@ -53,7 +53,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Contents",
             "altText": "Dropdown",
             "links": [
                 {
