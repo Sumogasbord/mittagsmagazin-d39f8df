@@ -58,6 +58,16 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "altText": "Misskey",
+                "url": "https://misskey.roolone.mw",
+                "showIcon": true,
+                "icon": "misskey",
+                "iconPosition": "left",
+                "style": "secondary",
+                "elementId": ""
             }
         ]
     }
