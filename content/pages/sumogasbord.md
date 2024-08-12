@@ -88,7 +88,7 @@ sections:
           - pr-16
         justifyContent: center
 slug: sumogasbord
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: Landing Page
