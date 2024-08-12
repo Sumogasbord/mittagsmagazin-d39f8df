@@ -35,7 +35,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: ''
+      text: Contents
       color: text-primary
       styles:
         self:
