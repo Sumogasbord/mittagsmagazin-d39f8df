@@ -51,7 +51,8 @@ sections:
           主に国内旅行中心です。
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            http://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
           altText: Placeholder image
           styles:
             self:
