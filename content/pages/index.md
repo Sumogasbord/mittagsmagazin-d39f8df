@@ -45,7 +45,7 @@ sections:
       - type: FeaturedItem
         title: 休み短しさまよえ旅人
         tagline: Travel Diary
-        subtitle: Sumögåsbord
+        subtitle: ''
         text: |
           「さまよういんたーねっつ★座敷童子」」であるSumögåsbordの旅行記です。
           主に国内旅行中心です。
