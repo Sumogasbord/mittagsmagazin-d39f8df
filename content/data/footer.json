@@ -6,7 +6,7 @@
     },
     "text": "Webbplatser för vandrare\n",
     "primaryLinks": {
-        "title": "Contents & Services",
+        "title": "Contents",
         "links": [
             {
                 "label": "休み短しさまよえ旅人",
@@ -16,7 +16,19 @@
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
-            },
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "socialLinks": [],
+    "legalLinks": [],
+    "copyrightText": "RooLone Magazine is managed and operated by [Plainbox](https://plainbox.net)  \n© Plainbox MMXXIV\n",
+    "colors": "bg-dark-fg-light",
+    "type": "Footer",
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Services",
+        "links": [
             {
                 "type": "Link",
                 "altText": "Misskey",
@@ -26,60 +38,7 @@
                 "iconPosition": "left",
                 "style": "secondary",
                 "elementId": "",
-                "label": "RooLone Hungout"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "socialLinks": [
-        {
-            "type": "Social",
-            "altText": "Misskey link",
-            "url": "https://misskey.roolone.me/@sumogasbord",
-            "icon": "misskey",
-            "elementId": ""
-        }
-    ],
-    "legalLinks": [],
-    "copyrightText": "RooLone Magazine is managed and operated by [Plainbox](https://plainbox.net)  \n© Plainbox MMXXIV\n",
-    "colors": "bg-dark-fg-light",
-    "type": "Footer",
-    "secondaryLinks": {
-        "type": "FooterLinksGroup",
-        "title": "Product",
-        "links": [
-            {
-                "type": "Link",
-                "label": "Features",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Pricing",
-                "altText": "",
-                "url": "/pricing",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "altText": "",
-                "url": "/",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "elementId": ""
+                "label": "RooLone Hangout"
             }
         ]
     }
