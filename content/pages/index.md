@@ -91,7 +91,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: 記事一覧
             altText: ''
             url: /diary-oita
             showIcon: false
