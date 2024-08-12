@@ -61,7 +61,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: members/
+slug: members
 seo:
   type: Seo
   metaTitle: Careers - Demo site
