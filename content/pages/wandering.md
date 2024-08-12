@@ -28,7 +28,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-slug: wandering-traveller
+slug: wandering
 isDraft: false
 seo:
   type: Seo
