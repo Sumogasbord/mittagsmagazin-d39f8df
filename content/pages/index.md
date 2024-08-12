@@ -53,7 +53,7 @@ sections:
           type: ImageBlock
           url: >-
             http://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
-          altText: Placeholder image
+          altText: ''
           styles:
             self:
               borderRadius: x-large
