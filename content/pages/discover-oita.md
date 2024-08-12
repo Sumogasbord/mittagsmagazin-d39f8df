@@ -34,7 +34,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Latest Update
       color: text-dark
       styles:
         self:
