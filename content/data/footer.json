@@ -46,7 +46,7 @@
     "type": "Footer",
     "secondaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "Product",
+        "title": "Services",
         "links": [
             {
                 "type": "Link",
