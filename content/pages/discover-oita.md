@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 豊かな国で逢いましょう
       color: text-dark
       styles:
         self:
