@@ -28,7 +28,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 25
+      opacity: 50
       url: >-
         https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
   - type: FeaturedPostsSection
