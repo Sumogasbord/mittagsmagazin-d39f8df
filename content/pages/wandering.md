@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 休み短しさまよえ旅人
       color: text-dark
       styles:
         self:
