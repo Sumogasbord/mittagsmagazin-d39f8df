@@ -10,7 +10,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/change_to_ulcv-8000.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
