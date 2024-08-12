@@ -52,7 +52,7 @@
                 "type": "Link",
                 "label": "RooLone Hangout",
                 "altText": "\"RooLone Hangout\"はRooLoneブランドのMisskeyサーバーです。",
-                "url": "/",
+                "url": "https://misskey.roolone.me",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
