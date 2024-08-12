@@ -38,11 +38,9 @@ sections:
         self:
           textAlign: center
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |
+      地元・大分県内のアレコレを書いた企画です。
+      特にジャンルは決めていません。
     actions: []
     colors: bg-light-fg-dark
     styles:
