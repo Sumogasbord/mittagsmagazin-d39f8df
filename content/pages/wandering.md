@@ -10,7 +10,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/welcome-rln-mag.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
