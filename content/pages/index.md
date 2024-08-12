@@ -69,7 +69,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: ''
-        tagline: ''
+        tagline: Discover Oita
         subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
