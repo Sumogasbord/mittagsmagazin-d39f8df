@@ -68,7 +68,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Discover Oita
+        title: ''
         tagline: ''
         subtitle: ''
         text: |
