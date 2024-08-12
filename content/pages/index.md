@@ -69,7 +69,7 @@ sections:
           - type: Button
             label: Get started
             altText: ''
-            url: /
+            url: /wandering
             showIcon: false
             icon: arrowRight
             iconPosition: right
