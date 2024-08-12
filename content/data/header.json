@@ -60,7 +60,7 @@
                     "type": "Link",
                     "label": "Dropdown item",
                     "altText": "wandaring",
-                    "url": "/",
+                    "url": "/wandaring",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
