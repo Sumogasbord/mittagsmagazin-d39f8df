@@ -12,7 +12,7 @@ sections:
           textAlign: left
     subtitle: 大分県内に関する雑記
     text: |
-      地元・大分県内のアレコレを書いた企画です。 特にジャンルは決めていません。
+      地元・大分県内のアレコレを書いたものです。
     actions: []
     colors: bg-light-fg-dark
     styles:
