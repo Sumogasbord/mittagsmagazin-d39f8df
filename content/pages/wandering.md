@@ -66,4 +66,6 @@ seo:
   metaDescription: Sumögåsbordの旅行記集。 2024年秋以降の旅行記を掲載しています。
   addTitleSuffix: true
   metaTags: []
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
 ---
