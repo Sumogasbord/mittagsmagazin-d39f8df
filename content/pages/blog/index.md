@@ -32,7 +32,6 @@ styles:
 seo:
   metaTitle: All Posts
   metaDescription: RooLoneのすべての記事を見ることができます。
-  socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
