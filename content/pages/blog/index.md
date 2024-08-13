@@ -30,12 +30,11 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+  metaTitle: All Posts
+  metaDescription: RooLoneのすべての記事を見ることができます。
   type: Seo
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
 type: PostFeedLayout
 bottomSections: []
 postFeed:
