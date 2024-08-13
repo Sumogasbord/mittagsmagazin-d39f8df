@@ -63,7 +63,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 休み短しさまよえ旅人
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: Sumögåsbordの旅行記集。 2024年秋以降の旅行記を掲載しています。
   addTitleSuffix: true
   metaTags: []
 ---
