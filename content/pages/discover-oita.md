@@ -61,7 +61,7 @@ slug: discover-oita
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: 豊かな国で逢いましょう
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   metaTags: []
