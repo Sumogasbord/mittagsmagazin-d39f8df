@@ -65,4 +65,6 @@ seo:
   metaDescription: 大分県内のことについて書いています。
   addTitleSuffix: true
   metaTags: []
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
 ---
