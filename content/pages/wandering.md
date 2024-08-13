@@ -62,9 +62,10 @@ slug: wandering
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: 休み短しさまよえ旅人
+  metaDescription: Sumögåsbordの旅行記集。 2024年秋以降の旅行記を掲載しています。
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
 ---
