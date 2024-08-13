@@ -64,7 +64,7 @@ sections:
 slug: members
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: All Members
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
