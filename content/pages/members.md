@@ -64,7 +64,9 @@ sections:
 slug: members
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify.
+  metaTitle: All Members
+  metaDescription: RooLone Magazineのメンバーを紹介しています。
   metaTags: []
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
 ---
