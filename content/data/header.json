@@ -32,7 +32,7 @@
                     "type": "Link",
                     "label": "Sumögåsbord",
                     "altText": "",
-                    "url": "about-sumogasbord",
+                    "url": "/about-sumogasbord",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
