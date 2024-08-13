@@ -92,7 +92,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Sumögåsbord
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: RooLone memberのSumögåsbordについての紹介ページです。
   addTitleSuffix: true
   metaTags: []
 ---
