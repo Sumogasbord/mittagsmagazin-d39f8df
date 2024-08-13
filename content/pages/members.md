@@ -67,4 +67,6 @@ seo:
   metaTitle: All Members
   metaDescription: RooLone Magazineのメンバーを紹介しています。
   metaTags: []
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
 ---
