@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: TRAVEL DIARY
+    subtitle: 放浪記のような旅行記
     text: |
       Sumögåsbordの旅行記集。
       2024年秋以降の旅行記を掲載しています。
