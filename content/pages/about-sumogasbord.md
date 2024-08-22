@@ -35,9 +35,14 @@ sections:
       text: Sumögåsbord
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      スウェーデン系イギリス式の純日本人。
+      旅ぐらいしかできないような人間のようなもの。 
+      自称「いんたーねっつ★座敷わらし」 
+      旅人サークル「Plainbox」のサークル主であり、この「RooLone」シリーズの管理人でもある。
+
+
+
     actions:
       - type: Button
         label: Get started
