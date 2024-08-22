@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Member
+title: About us
 sections:
   - type: GenericSection
     title:
