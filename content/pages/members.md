@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About Us
+      text: About us
       color: text-dark
       styles:
         self:
