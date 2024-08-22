@@ -51,7 +51,7 @@ sections:
 
 
       現在は、ウェブマガジンである「RooLone Magazine」と分散型SNS"Misskey"のサーバーである「RooLone
-      Hangout」を展開しています。
+      Hangout」を展開している。
     actions: []
     colors: bg-light-fg-dark
     styles:
