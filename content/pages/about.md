@@ -71,6 +71,7 @@ sections:
     subtitle: RooLone Magazineって何ですか？
     text: |
       RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン
+
       旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
     actions: []
     colors: bg-light-fg-dark
