@@ -10,12 +10,34 @@
         "links": [
             {
                 "label": "休み短しさまよえ旅人",
-                "altText": "",
-                "url": "/",
+                "altText": "休み短しさまよえ旅人",
+                "url": "/wandering",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "豊かな国で逢いましょう",
+                "altText": "豊かな国で逢いましょう",
+                "url": "/discover-oita",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "どうでもふぇすてぃばーれん",
+                "altText": "どうでもふぇすてぃばーれん",
+                "url": "/paragraph-festivalen",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
             }
         ],
         "type": "FooterLinksGroup"
