@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: すーもがすぼーど
     text: ''
     actions: []
     colors: bg-dark-fg-light
