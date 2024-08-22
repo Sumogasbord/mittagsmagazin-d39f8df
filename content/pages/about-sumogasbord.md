@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Master / Desinger / Engineer
+    subtitle: ''
     text: ''
     actions: []
     colors: bg-dark-fg-light
