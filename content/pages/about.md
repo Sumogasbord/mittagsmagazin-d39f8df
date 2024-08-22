@@ -82,7 +82,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: members
+slug: about
 seo:
   type: Seo
   metaTitle: All Members
