@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About RooLone
+      text: About Us
       color: text-dark
       styles:
         self:
