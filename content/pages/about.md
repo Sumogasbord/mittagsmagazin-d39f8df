@@ -47,10 +47,11 @@ sections:
           textAlign: center
     subtitle: RooLoneって何ですか？
     text: >
-      RooLoneは、旅人サークル[「Plainbox」](https://plainbox.net)が運営している「旅も人生も彷徨っているような人たち」へ向けたウェブサイトのシリーズ。
+      RooLoneは、旅人サークルの[「Plainbox」](https://plainbox.net)が運営している「旅も人生も彷徨っているような人たち」へ向けたウェブサイトのシリーズ。
+
 
       現在は、ウェブマガジンである「RooLone Magazine」と分散型SNS"Misskey"のサーバーである「RooLone
-      Hangout」を運営中。
+      Hangout」を展開しています。
     actions: []
     colors: bg-light-fg-dark
     styles:
