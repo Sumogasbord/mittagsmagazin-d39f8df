@@ -112,7 +112,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Paragraph festivalen
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
