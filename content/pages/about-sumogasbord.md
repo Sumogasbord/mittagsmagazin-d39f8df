@@ -34,7 +34,7 @@ sections:
       type: TitleBlock
       text: Sumögåsbord
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Master / Desinger / Engineer
     text: |
       スウェーデン系イギリス式の純日本人  
       旅ぐらいしかできないような人間のようなもの  
