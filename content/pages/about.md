@@ -49,7 +49,6 @@ sections:
     text: >
       RooLoneは、旅人サークル[「Plainbox」](https://plainbox.net)が運営している「旅も人生も彷徨っているような人たち」へ向けたウェブブランド。
 
-
       現在は、ウェブマガジンである「RooLone Magazine」と分散型SNS"Misskey"のサーバーである「RooLone
       Hangout」を運営中。
     actions: []
