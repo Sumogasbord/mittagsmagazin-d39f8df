@@ -42,12 +42,6 @@ sections:
 
       旅人サークル「Plainbox」のサークル主であり、この「RooLone」シリーズの管理人でもある。
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
