@@ -39,8 +39,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/welcome-rln-mag.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
