@@ -24,7 +24,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: ''
-      backgroundSize: contain
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 25
