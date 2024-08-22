@@ -14,14 +14,14 @@
     "primaryLinks": [
         {
             "type": "SubNav",
-            "label": "Member",
-            "altText": "Member of RooLone",
+            "label": "About",
+            "altText": "About RooLone",
             "links": [
                 {
                     "type": "Link",
-                    "label": "All Members",
+                    "label": "About us",
                     "altText": "",
-                    "url": "/members",
+                    "url": "/about",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
