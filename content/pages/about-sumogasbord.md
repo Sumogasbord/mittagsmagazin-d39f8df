@@ -54,7 +54,8 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: >-
+        http://res.cloudinary.com/dikcsjqfo/image/upload/v1724333339/v030_-_nomal_m2oohx.jpg
       altText: Fun feature preview
     badge:
       type: Badge
