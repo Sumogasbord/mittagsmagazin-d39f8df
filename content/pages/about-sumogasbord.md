@@ -38,9 +38,12 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: |+
-      SumögåsbordはPlainboxのサークル主であり、RooLoneの管理人である。
+    text: |
+      スウェーデン系イギリス式の純日本人。 
+      旅ぐらいしかできないような人間のようなもの。
+      自称「いんたーねっつ★座敷わらし」
 
+      旅人サークル「Plainbox」のサークル主であり、この「RooLone」シリーズの管理人でもある。
     actions: []
     colors: bg-light-fg-dark
     styles:
