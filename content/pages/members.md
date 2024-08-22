@@ -40,7 +40,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Team RooLone
+      text: Member of RooLone
       color: text-dark
       styles:
         self:
