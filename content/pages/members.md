@@ -37,6 +37,28 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Grow your business 10x faster
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: This is a subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
