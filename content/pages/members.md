@@ -40,7 +40,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About "RooLone"
+      text: About RooLone
       color: text-dark
       styles:
         self:
