@@ -63,7 +63,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: About RooLone Magazine
+      text: RooLone Magazine
       color: text-dark
       styles:
         self:
