@@ -36,9 +36,9 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: |
-      スウェーデン系イギリス式の純日本人。 
-      旅ぐらいしかできないような人間のようなもの。 
-      自称「いんたーねっつ★座敷わらし」 
+      スウェーデン系イギリス式の純日本人。  
+      旅ぐらいしかできないような人間のようなもの。  
+      自称「いんたーねっつ★座敷わらし」  
       旅人サークル「Plainbox」のサークル主であり、この「RooLone」シリーズの管理人でもある。
     actions:
       - type: Button
