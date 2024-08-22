@@ -40,7 +40,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: About "RooLone"
       color: text-dark
       styles:
         self:
