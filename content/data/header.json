@@ -21,7 +21,7 @@
                     "type": "Link",
                     "label": "About us",
                     "altText": "",
-                    "url": "/members",
+                    "url": "/about",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
