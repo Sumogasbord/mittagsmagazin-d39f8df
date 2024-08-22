@@ -60,7 +60,7 @@ slug: paragraph-festivalen
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
+  metaTitle: どうでもふぇすてぃばーれん
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
   socialImage: >-
