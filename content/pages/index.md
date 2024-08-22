@@ -113,7 +113,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: Paragraph festivalen
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
