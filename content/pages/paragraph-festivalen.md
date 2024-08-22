@@ -61,7 +61,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: どうでもふぇすてぃばーれん
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: どうでもいいことを書いています。
   addTitleSuffix: true
   socialImage: >-
     http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
