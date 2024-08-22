@@ -15,7 +15,7 @@
         {
             "type": "SubNav",
             "label": "About",
-            "altText": "Member of RooLone",
+            "altText": "About RooLone",
             "links": [
                 {
                     "type": "Link",
