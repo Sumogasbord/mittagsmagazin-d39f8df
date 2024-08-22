@@ -65,7 +65,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: About RooLone Magazine
       color: text-dark
       styles:
         self:
