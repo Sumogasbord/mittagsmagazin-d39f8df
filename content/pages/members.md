@@ -12,8 +12,7 @@ sections:
           textAlign: center
     subtitle: ''
     text: |
-      RooLoneの運営・企画などを行っているチームメンバーを紹介しましょう。
-      といっても一人ですが。
+      RooLoneについてご紹介しましょう。
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
