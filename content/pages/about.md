@@ -69,10 +69,18 @@ sections:
         self:
           textAlign: center
     subtitle: RooLone Magazineって何ですか？
-    text: |
-      RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン
+    text: |+
+      RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン。
 
-      旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
+      以下のコンテンツを通して旅の参考に1mmぐらいはなるような情報をローペースで発信する予定。
+
+
+      | 「休み短しさまよえ旅人」 | Plainboxのウェブサイトで展開していたシリーズをRooLone Magazineにお引越し。
+       |
+      | ------------ | ------------------------------------------------------ |
+      |              |                                                        |
+      |              |                                                        |
+
     actions: []
     colors: bg-light-fg-dark
     styles:
