@@ -28,7 +28,7 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 25
       url: >-
-        https://res.cloudinary.com/dikcsjqfo/image/upload/v1722165009/%E5%A4%8F_-_%E3%83%A9%E3%83%95_%E6%A8%9985%E6%A5%BD25_-_%E3%83%89_%E3%83%89%E3%82%A2%E3%83%83%E3%83%97_yktcns.png
+        https://res.cloudinary.com/dikcsjqfo/image/upload/v1724333339/v030_-_nomal_m2oohx.jpg
   - type: GenericSection
     title:
       type: TitleBlock
