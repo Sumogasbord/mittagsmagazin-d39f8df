@@ -116,7 +116,7 @@ sections:
         tagline: Paragraph festivalen
         subtitle: ''
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          テーマはなく、どうでもいいようなことを書いている備忘録のようなもの。
         image:
           type: ImageBlock
           url: >-
