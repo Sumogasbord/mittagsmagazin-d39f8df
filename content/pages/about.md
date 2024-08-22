@@ -46,14 +46,10 @@ sections:
         self:
           textAlign: center
     subtitle: RooLoneって何ですか？
-    text: |+
-      ようこそ「さまよう旅人」のためのウェブサイトへ
+    text: >
+      RooLoneは、旅人サークル[「Plainbox」](https://plainbox.net)が運営している「旅も人生も彷徨っているような人たち」へ向けたウェブブランド。
 
-      RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン
-      旅の参考に1mmぐらいはなるような情報をローペースで発信する予定です
-
-
-
+      ブログ「」
     actions: []
     colors: bg-light-fg-dark
     styles:
