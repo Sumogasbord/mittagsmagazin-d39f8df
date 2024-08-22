@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Master / Desinger / Engineer
+    subtitle: すーもがすぼーど
     text: ''
     actions: []
     colors: bg-dark-fg-light
@@ -28,27 +28,33 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 25
       url: >-
-        https://res.cloudinary.com/dikcsjqfo/image/upload/v1722165009/%E5%A4%8F_-_%E3%83%A9%E3%83%95_%E6%A8%9985%E6%A5%BD25_-_%E3%83%89_%E3%83%89%E3%82%A2%E3%83%83%E3%83%97_yktcns.png
+        https://res.cloudinary.com/dikcsjqfo/image/upload/v1724333339/v030_-_nomal_m2oohx.jpg
   - type: GenericSection
     title:
       type: TitleBlock
-      text: どんな人？
+      text: Sumögåsbord
       color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: |+
-      SumögåsbordはPlainboxのサークル主であり、RooLoneの管理人である。
+    subtitle: すーもがすぼーど
+    text: |
+      スウェーデン系イギリス式の純日本人  
+      旅ぐらいしかできないような人間のようなもの  
+      自称「いんたーねっつ★座敷わらし」
 
+      旅人サークル「Plainbox」のサークル主であり、この「RooLone」シリーズの管理人でもある。
     actions: []
+    media:
+      type: ImageBlock
+      url: >-
+        http://res.cloudinary.com/dikcsjqfo/image/upload/v1724333339/v030_-_nomal_m2oohx.jpg
+      altText: Sumögåsbord
+    badge:
+      type: Badge
+      label: Master / Desinger / Engineer
+      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
+        alignItems: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -96,5 +102,5 @@ seo:
   addTitleSuffix: true
   metaTags: []
   socialImage: >-
-    https://res.cloudinary.com/dikcsjqfo/image/upload/v1722165009/%E5%A4%8F_-_%E3%83%A9%E3%83%95_%E6%A8%9985%E6%A5%BD25_-_%E3%83%89_%E3%83%89%E3%82%A2%E3%83%83%E3%83%97_yktcns.png
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
 ---
