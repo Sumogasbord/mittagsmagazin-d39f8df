@@ -19,7 +19,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "All Members",
+                    "label": "About us",
                     "altText": "",
                     "url": "/members",
                     "showIcon": false,
