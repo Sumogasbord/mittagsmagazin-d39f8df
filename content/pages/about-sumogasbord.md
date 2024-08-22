@@ -49,7 +49,7 @@ sections:
       altText: Sumögåsbord
     badge:
       type: Badge
-      label: This is a badge
+      label: Master / Desinger / Engineer
       color: text-primary
     colors: bg-light-fg-dark
     styles:
