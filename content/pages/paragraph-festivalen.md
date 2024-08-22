@@ -63,6 +63,7 @@ seo:
   metaTitle: Landing Page
   metaDescription: Write here your new page's description including most relevant keywords.
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
+  socialImage: >-
+    http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
   metaTags: []
 ---
