@@ -112,7 +112,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: どうでもふぇすてぃばーれん
+        title: Paragraph festivalen
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
