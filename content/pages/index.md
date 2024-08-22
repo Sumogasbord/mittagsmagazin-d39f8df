@@ -111,6 +111,40 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - type: FeaturedItem
+        title: どうでもふぇすてぃばーれん
+        tagline: Paragraph festivalen
+        subtitle: ''
+        text: |
+          テーマはなく、どうでもいいようなことを書いている備忘録のようなもの。
+        image:
+          type: ImageBlock
+          url: >-
+            http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions:
+          - type: Button
+            label: 記事一覧
+            altText: ''
+            url: /paragraph-festivalen
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
