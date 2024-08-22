@@ -41,14 +41,7 @@ sections:
       自称「いんたーねっつ★座敷わらし」
 
       旅人サークル「Plainbox」のサークル主であり、この「RooLone」シリーズの管理人でもある。
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: >-
