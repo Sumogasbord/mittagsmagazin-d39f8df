@@ -56,7 +56,7 @@ sections:
       type: ImageBlock
       url: >-
         http://res.cloudinary.com/dikcsjqfo/image/upload/v1724333339/v030_-_nomal_m2oohx.jpg
-      altText: Fun feature preview
+      altText: Sumögåsbord
     badge:
       type: Badge
       label: This is a badge
