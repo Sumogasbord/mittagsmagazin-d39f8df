@@ -68,29 +68,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: どんな人？
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: ''
-    text: |
-      スウェーデン系イギリス式の純日本人。  
-      旅ぐらいしかできないような人間のようなもの。  
-      自称「いんたーねっつ★座敷わらし」
-
-      旅人サークル「Plainbox」のサークル主であり、この「RooLone」シリーズの管理人でもある。
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
