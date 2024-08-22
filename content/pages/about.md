@@ -125,7 +125,7 @@ sections:
 slug: about
 seo:
   type: Seo
-  metaTitle: All Members
+  metaTitle: About us
   metaDescription: RooLone Magazineのメンバーを紹介しています。
   metaTags: []
   socialImage: >-
