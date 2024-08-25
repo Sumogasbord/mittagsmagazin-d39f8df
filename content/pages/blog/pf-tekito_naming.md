@@ -58,6 +58,8 @@ seo:
   metaDescription: 雑記帳のネーミングなんて、どうでもよかった。 - どうでもふぇすてぃばーれん
   addTitleSuffix: false
   metaTags: []
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
 colors: bg-light-fg-dark
 styles:
   self:
