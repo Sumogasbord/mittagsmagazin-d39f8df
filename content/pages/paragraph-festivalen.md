@@ -41,7 +41,7 @@ sections:
     posts:
       - content/pages/blog/pf-tekito-naming.md
     showThumbnail: true
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     actions: []
