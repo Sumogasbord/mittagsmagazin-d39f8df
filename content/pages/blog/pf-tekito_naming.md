@@ -2,7 +2,6 @@
 type: PostLayout
 title: 雑記帳のネーミングなんて、どうでもよかった。 - どうでもふぇすてぃばーれん
 date: '2024-08-25'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
