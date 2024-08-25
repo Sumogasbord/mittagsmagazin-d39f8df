@@ -55,7 +55,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 雑記帳のネーミングなんて、どうでもよかった。 - どうでもふぇすてぃばーれん
-  metaDescription: 雑記帳のネーミングなんて、どうでもよかった。 - どうでもふぇすてぃばーれん
+  metaDescription: 初回はこの「どうでもふぇすてぃばーれん」について少しだけ書いてみようと思います。
   addTitleSuffix: false
   metaTags: []
   socialImage: >-
