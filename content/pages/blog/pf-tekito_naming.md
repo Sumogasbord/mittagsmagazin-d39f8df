@@ -55,7 +55,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: 雑記帳のネーミングなんて、どうでもよかった。 - どうでもふぇすてぃばーれん
-  metaDescription: lorem-ipsum
+  metaDescription: 雑記帳のネーミングなんて、どうでもよかった。 - どうでもふぇすてぃばーれん
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
