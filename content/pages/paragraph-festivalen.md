@@ -48,7 +48,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
     styles:
       self:
         padding:
