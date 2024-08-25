@@ -1,18 +1,21 @@
 import * as React from 'react';
+import classNames from 'classnames';
 import dayjs from 'dayjs';
 import Markdown from 'markdown-to-jsx';
 
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
 import Link from '../../atoms/Link';
+import ImageBlock from '../../../blocks/ImageBlock';
 
 export default function PostLayout(props) {
-    const { page, showThumbnail, site } = props;
+    const { page, showThumbnail, site, hasBigThumbnail, hasAnnotations } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const { enableAnnotations = true } = site;
     const { title, date, author, markdown_content, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
+    const flexDirection = post.styles?.self?.flexDirection ?? 'col';
     const hasThumbnail = !!(showThumbnail && post.featuredImage?.url);
 
     return (
@@ -90,6 +93,21 @@ function PostAuthor({ author, enableAnnotations }) {
     ) : (
         <span {...(enableAnnotations && { 'data-sb-field-path': 'author' })}>{authorName}</span>
     );
+}
+
+function mapFlexDirectionStyles(flexDirection: string, hasThumbnail: boolean) {
+    switch (flexDirection) {
+        case 'row':
+            return hasThumbnail ? 'flex-col xs:flex-row xs:items-stretch' : 'flex-col';
+        case 'row-reverse':
+            return hasThumbnail ? 'flex-col xs:flex-row-reverse xs:items-stretch' : 'flex-col';
+        case 'col':
+            return 'flex-col';
+        case 'col-reverse':
+            return 'flex-col-reverse';
+        default:
+            return null;
+    }
 }
 
 /*
