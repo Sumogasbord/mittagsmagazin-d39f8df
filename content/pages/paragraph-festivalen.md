@@ -46,7 +46,7 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: three-col-grid
+    variant: big-list
     colors: bg-light-fg-dark
     hoverEffect: thick-underline
     styles:
