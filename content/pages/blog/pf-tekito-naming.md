@@ -59,7 +59,7 @@ seo:
   metaTags: []
   socialImage: >-
     https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
-colors: bg-light-fg-dark
+colors: bg-dark-fg-light
 styles:
   self:
     flexDirection: col
