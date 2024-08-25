@@ -7,16 +7,18 @@ import { getComponent } from '../../components-registry';
 import Link from '../../atoms/Link';
 
 export default function PostLayout(props) {
-    const { page, site } = props;
+    const { page, showThumbnail, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const { enableAnnotations = true } = site;
     const { title, date, author, markdown_content, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
+    const hasThumbnail = !!(showThumbnail && post.featuredImage?.url);
 
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-post-layout">
+                <img class="w-full max-w-4xl mx-auto relative" src={hasThumbnail} />
                 <article className="px-4 py-16 sm:py-28">
                     <div className="max-w-screen-2xl mx-auto">
                         <header className="max-w-4xl mx-auto mb-12 text-center">
