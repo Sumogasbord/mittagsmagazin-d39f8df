@@ -2,9 +2,7 @@
 type: PostLayout
 title: 雑記帳のネーミングなんて、どうでもよかった。 - どうでもふぇすてぃばーれん
 date: '2024-08-25'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: 初回はこの「どうでもふぇすてぃばーれん」について少しだけ書いてみようと思います。
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
