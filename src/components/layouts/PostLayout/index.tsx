@@ -18,7 +18,19 @@ export default function PostLayout(props) {
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-post-layout">
-                <img class="w-full max-w-4xl mx-auto relative" src={hasThumbnail} />
+                <div className={classNames('w-full', 'flex', mapFlexDirectionStyles(flexDirection, hasThumbnail), 'gap-6')}>
+                    {hasThumbnail && (
+                        <ImageBlock
+                            {...post.featuredImage}
+                            className={classNames({
+                                'xs:w-[50%] xs:shrink-0': hasBigThumbnail && (flexDirection === 'row' || flexDirection === 'row-reversed'),
+                                'xs:w-[28.4%] xs:shrink-0': !hasBigThumbnail && (flexDirection === 'row' || flexDirection === 'row-reversed')
+                            })}
+                            imageClassName="w-full h-full object-cover"
+                            {...(hasAnnotations && { 'data-sb-field-path': 'featuredImage' })}
+                        />
+                    )}
+                </div>
                 <article className="px-4 py-16 sm:py-28">
                     <div className="max-w-screen-2xl mx-auto">
                         <header className="max-w-4xl mx-auto mb-12 text-center">
