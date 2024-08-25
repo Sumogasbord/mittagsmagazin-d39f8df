@@ -15,8 +15,8 @@ export default function PostLayout(props) {
     const { title, date, author, markdown_content, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
-    const flexDirection = post.styles?.self?.flexDirection ?? 'col';
-    const hasThumbnail = !!(showThumbnail && post.featuredImage?.url);
+    const flexDirection = page.styles?.self?.flexDirection ?? 'col';
+    const hasThumbnail = !!(showThumbnail && page.featuredImage?.url);
 
     return (
         <BaseLayout page={page} site={site}>
@@ -24,7 +24,7 @@ export default function PostLayout(props) {
                 <div className={classNames('w-full', 'flex', mapFlexDirectionStyles(flexDirection, hasThumbnail), 'gap-6')}>
                     {hasThumbnail && (
                         <ImageBlock
-                            {...post.featuredImage}
+                            {...page.featuredImage}
                             className={classNames({
                                 'xs:w-[50%] xs:shrink-0': hasBigThumbnail && (flexDirection === 'row' || flexDirection === 'row-reversed'),
                                 'xs:w-[28.4%] xs:shrink-0': !hasBigThumbnail && (flexDirection === 'row' || flexDirection === 'row-reversed')
