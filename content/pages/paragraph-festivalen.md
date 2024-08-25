@@ -40,7 +40,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/pf-tekito-naming.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
