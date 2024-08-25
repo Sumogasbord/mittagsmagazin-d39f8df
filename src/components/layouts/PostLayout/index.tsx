@@ -33,6 +33,11 @@ export default function PostLayout(props) {
                             {...(hasAnnotations && { 'data-sb-field-path': 'featuredImage' })}
                         />
                     )}
+                    <div
+                        className={classNames('w-full', {
+                            'xs:grow': hasThumbnail && (flexDirection === 'row' || flexDirection === 'row-reversed')
+                        })}
+                    ></div>
                 </div>
                 <article className="px-4 py-16 sm:py-28">
                     <div className="max-w-screen-2xl mx-auto">
