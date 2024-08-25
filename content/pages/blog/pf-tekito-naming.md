@@ -49,7 +49,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: pf-tekito-naming
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   type: Seo
