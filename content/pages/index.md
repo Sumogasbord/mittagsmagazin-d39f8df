@@ -185,7 +185,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    subtitle: 最新の投稿
+    subtitle: ''
 seo:
   metaTitle: RooLone Magazine
   metaDescription: RooLone Magazineのトップページです。
