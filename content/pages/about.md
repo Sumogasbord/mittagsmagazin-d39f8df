@@ -94,7 +94,8 @@ sections:
           Sumögåsbordを中心に旅行記として展開予定。
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
           altText: Placeholder image
           styles:
             self:
