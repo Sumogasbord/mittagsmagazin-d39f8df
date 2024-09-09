@@ -94,7 +94,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 休み短しさまよえ旅人
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: >
           Plainboxウェブサイトで展開していたシリーズをRooLone
