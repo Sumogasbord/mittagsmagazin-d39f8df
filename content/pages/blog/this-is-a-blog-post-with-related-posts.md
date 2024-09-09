@@ -2,7 +2,6 @@
 type: PostLayout
 title: ぐるっとせとうち - 休み短しさまよえ旅人
 date: '2022-10-10'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
