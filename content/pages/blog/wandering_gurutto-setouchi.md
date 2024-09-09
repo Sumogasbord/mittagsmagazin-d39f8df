@@ -21,7 +21,7 @@ bottomSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Main contents
       color: text-dark
       styles:
         self:
