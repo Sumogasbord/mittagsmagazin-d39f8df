@@ -69,14 +69,11 @@ sections:
         self:
           textAlign: center
     subtitle: RooLone Magazineって何ですか？
-    text: |
+    text: |+
       RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン。
 
       以下のコンテンツを通して旅の参考に1mmぐらいはなるような情報をローペースで発信する予定。
 
-      <div style="text-align: center">### どうでもふぇすてぃばーれん</div>
-
-      上記2つとは違い、テーマがなく、どうでもいいようなことを書く予定。備忘録のようなもの。
     actions: []
     colors: bg-light-fg-dark
     styles:
