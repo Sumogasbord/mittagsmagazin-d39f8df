@@ -100,7 +100,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Feature Item One
