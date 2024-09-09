@@ -51,6 +51,10 @@ bottomSections:
       self:
         justifyContent: center
     subtitle: 最新の記事
+    badge:
+      type: Badge
+      label: 最新の記事
+      color: text-primary
 slug: wandering_gurutto-setouchi
 isFeatured: false
 isDraft: false
