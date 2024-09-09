@@ -58,8 +58,7 @@ seo:
   metaDescription: >-
     JR九州がネット予約のチケットレスサービスを導入すると言って半年近くが経ち、専用改札機の設置が始まった今日この頃、「そろそろサービス開始するんじゃないか？」という状況になってきましたので、ちょっと記事にしてみました。今回は「なぜ今までチケットレスサービスをやってこなかったのか？」を中心に考察してみます。
   addTitleSuffix: false
-  metaTags:
-    - type: MetaTag
+  metaTags: []
 colors: bg-light-fg-dark
 styles:
   self:
