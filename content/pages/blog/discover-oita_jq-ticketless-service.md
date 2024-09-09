@@ -51,7 +51,7 @@ bottomSections:
         justifyContent: center
 slug: discover-oita_jq-ticketless-service
 isFeatured: false
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
