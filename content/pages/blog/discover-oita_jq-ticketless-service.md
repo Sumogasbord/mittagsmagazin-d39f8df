@@ -54,7 +54,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: やっとJR九州ネット予約でチケレスサービスが始まるぞ！ - 豊かな国で逢いましょう
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
