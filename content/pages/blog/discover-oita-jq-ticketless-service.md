@@ -49,7 +49,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: /discover-oita_jq-ticketless-service
+slug: discover-oita-jq-ticketless-service
 isFeatured: false
 isDraft: true
 seo:
