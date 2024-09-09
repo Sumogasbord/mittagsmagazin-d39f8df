@@ -29,6 +29,27 @@ bottomSections:
           - pl-12
           - pb-12
           - pr-12
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thick-underline
+    styles:
+      self:
+        justifyContent: center
 slug: wandering_gurutto-setouchi
 isFeatured: false
 isDraft: false
