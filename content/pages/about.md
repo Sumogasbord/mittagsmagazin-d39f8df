@@ -145,7 +145,8 @@ sections:
           上記2つとは違い、テーマがなく、どうでもいいようなことを書く予定。備忘録のようなもの。
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: >-
+            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
           altText: Placeholder image
           styles:
             self:
