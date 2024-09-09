@@ -47,7 +47,7 @@ sections:
         tagline: Travel Diary
         subtitle: ''
         text: |
-          「さまよういんたーねっつ★座敷童子」」であるSumögåsbordの旅行記です。
+          「さまよういんたーねっつ★座敷童子」であるSumögåsbordの旅行記です。
           主に国内旅行中心です。
         image:
           type: ImageBlock
