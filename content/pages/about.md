@@ -96,8 +96,9 @@ sections:
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Plainboxウェブサイトで展開していたシリーズをRooLone
+          Magazineへお引越し。Sumögåsbordを中心に旅行記として展開予定。
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
