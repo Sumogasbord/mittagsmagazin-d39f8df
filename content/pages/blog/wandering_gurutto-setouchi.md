@@ -68,5 +68,5 @@ author: content/data/sumogasbord.json
 ---
 「・・・おひるまえ」って思った人はお友達ね。
 
-どうも、旅迷人ことSumögåsbordです。 
+どうも、旅迷人ことSumögåsbordです。 /
 9月になりましたね。いかがお過ごしでしょうか？
