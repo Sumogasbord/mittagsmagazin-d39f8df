@@ -2,7 +2,6 @@
 type: PostLayout
 title: やっとJR九州ネット予約でチケレスサービスが始まるぞ！ - 豊かな国で逢いましょう
 date: '2024-09-09'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
