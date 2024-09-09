@@ -51,7 +51,7 @@ bottomSections:
         justifyContent: center
 slug: welcome-rln-mag
 isFeatured: false
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: lorem-ipsum
