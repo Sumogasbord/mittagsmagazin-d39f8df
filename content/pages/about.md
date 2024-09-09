@@ -94,7 +94,6 @@ sections:
         subtitle: ''
         text: |
           Plainboxウェブサイトで展開していたシリーズをRooLone Magazineへお引越し。
-
           Sumögåsbordを中心に旅行記として展開予定。
         image:
           type: ImageBlock
