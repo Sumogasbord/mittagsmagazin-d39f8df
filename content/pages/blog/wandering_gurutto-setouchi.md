@@ -37,7 +37,7 @@ bottomSections:
       styles:
         self:
           textAlign: center
-    recentCount: 5
+    recentCount: 3
     showThumbnail: true
     showExcerpt: true
     showDate: true
