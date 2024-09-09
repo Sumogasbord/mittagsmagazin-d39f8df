@@ -49,7 +49,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: this-is-a-blog-post-with-related-posts
+slug: wandering-gurutto-setouchi
 isFeatured: false
 isDraft: false
 seo:
