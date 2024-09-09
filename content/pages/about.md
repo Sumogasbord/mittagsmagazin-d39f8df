@@ -118,7 +118,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Follow the tutorial to build your first awesome Netlify site.
+          我々が拠点としている大分県のことについて書く予定。
+
+          基本的には交通系の情報を初めて来県する旅行者向けの内容と大分県に住んでいる人へ向けて書く予定。
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
