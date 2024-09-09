@@ -136,7 +136,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: どうでもふぇすてぃばーれん
         tagline: ''
         subtitle: ''
         text: |
