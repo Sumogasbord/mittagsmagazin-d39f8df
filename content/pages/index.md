@@ -178,9 +178,9 @@ sections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/discover-oita_jq-ticketless-service.md
       - content/pages/blog/pf-tekito-naming.md
       - content/pages/blog/wandering_gurutto-setouchi.md
-      - content/pages/blog/discover-oita_jq-ticketless-service.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
