@@ -47,7 +47,7 @@ sections:
         tagline: Travel Diary
         subtitle: ''
         text: |
-          「さまよういんたーねっつ★座敷童子」」であるSumögåsbordの旅行記です。
+          「さまよういんたーねっつ★座敷童子」であるSumögåsbordの旅行記です。
           主に国内旅行中心です。
         image:
           type: ImageBlock
@@ -178,6 +178,8 @@ sections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/discover-oita_jq-ticketless-service.md
+      - content/pages/blog/wandering_gurutto-setouchi.md
       - content/pages/blog/pf-tekito-naming.md
     showThumbnail: true
     showExcerpt: true
