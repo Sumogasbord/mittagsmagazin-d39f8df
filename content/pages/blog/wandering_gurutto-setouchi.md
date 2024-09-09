@@ -49,7 +49,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: wandering-gurutto-setouchi
+slug: wandering_gurutto-setouchi
 isFeatured: false
 isDraft: false
 seo:
