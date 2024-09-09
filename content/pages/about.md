@@ -92,9 +92,10 @@ sections:
         title: 休み短しさまよえ旅人
         tagline: ''
         subtitle: ''
-        text: >
-          Plainboxウェブサイトで展開していたシリーズをRooLone
-          Magazineへお引越し。Sumögåsbordを中心に旅行記として展開予定。
+        text: |
+          Plainboxウェブサイトで展開していたシリーズをRooLone Magazineへお引越し。
+
+          Sumögåsbordを中心に旅行記として展開予定。
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
