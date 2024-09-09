@@ -140,7 +140,9 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          上記2つとは違い、テーマがなく、どうでもいいようなことを書く予定。備忘録のようなもの。
+          上記2つとは違い、テーマがなく、どうでもいいようなことを書く予定。
+
+          備忘録のようなもの。
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
