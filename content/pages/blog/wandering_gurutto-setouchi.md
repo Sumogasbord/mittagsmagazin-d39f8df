@@ -17,7 +17,18 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
-bottomSections: []
+bottomSections:
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
 slug: wandering_gurutto-setouchi
 isFeatured: false
 isDraft: false
