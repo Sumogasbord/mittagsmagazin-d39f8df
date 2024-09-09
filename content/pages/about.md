@@ -71,17 +71,24 @@ sections:
     subtitle: RooLone Magazineって何ですか？
     text: |
       RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン。
+
       以下のコンテンツを通して旅の参考に1mmぐらいはなるような情報をローペースで発信する予定。
 
-      ### 休み短しさまよえ旅人
+
+
+      <div style="text-align: center">### 休み短しさまよえ旅人</div>
 
       Plainboxウェブサイトで展開していたシリーズをRooLone Magazineへお引越し。Sumögåsbordを中心に旅行記として展開予定。
 
-      ### 豊かな国で逢いましょう
+
+
+      <div style="text-align: center">### 豊かな国で逢いましょう</div>
 
       我々が拠点としている大分県のことについて書く予定。基本的には交通系の情報を初めて来県する旅行者向けの内容と大分県に住んでいる人へ向けて書く予定。
 
-      ### どうでもふぇすてぃばーれん
+
+
+      <div style="text-align: center">### どうでもふぇすてぃばーれん</div>
 
       上記2つとは違い、テーマがなく、どうでもいいようなことを書く予定。備忘録のようなもの。
     actions: []
