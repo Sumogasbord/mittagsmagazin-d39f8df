@@ -50,6 +50,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+    subtitle: 最新の記事
 slug: wandering_gurutto-setouchi
 isFeatured: false
 isDraft: false
