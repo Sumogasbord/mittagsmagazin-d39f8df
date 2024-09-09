@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ぐるっとせとうち - 休み短しさまよえ旅人
+title: ぐるっとせとうち '24 Sep - 休み短しさまよえ旅人
 date: '2022-10-10'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
