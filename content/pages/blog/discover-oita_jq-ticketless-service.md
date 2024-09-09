@@ -55,7 +55,8 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: やっとJR九州ネット予約でチケレスサービスが始まるぞ！ - 豊かな国で逢いましょう
-  metaDescription: lorem-ipsum
+  metaDescription: >-
+    JR九州がネット予約のチケットレスサービスを導入すると言って半年近くが経ち、専用改札機の設置が始まった今日この頃、「そろそろサービス開始するんじゃないか？」という状況になってきましたので、ちょっと記事にしてみました。今回は「なぜ今までチケットレスサービスをやってこなかったのか？」を中心に考察してみます。
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
