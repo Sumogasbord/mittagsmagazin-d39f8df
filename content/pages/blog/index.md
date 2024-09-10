@@ -76,7 +76,7 @@ postFeed:
   showAuthor: true
   actions: []
   elementId: null
-  variant: small-list
+  variant: two-col-grid
   colors: bg-light-fg-dark
   hoverEffect: thick-underline
 isDraft: false
