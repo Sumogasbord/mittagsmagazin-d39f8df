@@ -7,7 +7,8 @@ excerpt: >-
   Donec sed facilisis nibh.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: >-
+    http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
   altText: Thumbnail
   elementId: ''
   styles:
