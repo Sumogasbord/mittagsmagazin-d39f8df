@@ -55,5 +55,5 @@ postFeed:
   variant: three-col-grid
   colors: bg-light-fg-dark
   hoverEffect: thick-underline
-isDraft: false
+isDraft: true
 ---
