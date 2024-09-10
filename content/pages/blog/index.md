@@ -34,7 +34,7 @@ topSections:
       styles:
         self:
           textAlign: center
-    subtitle: This is a subtitle
+    subtitle: すべての記事
     text: ''
     actions: []
     colors: bg-light-fg-dark
