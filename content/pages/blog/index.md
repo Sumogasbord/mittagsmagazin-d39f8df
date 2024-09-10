@@ -38,7 +38,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: All Posts
       color: text-dark
       styles:
         self:
