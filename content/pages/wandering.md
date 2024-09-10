@@ -39,8 +39,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/wandering_gurutto-setouchi.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
