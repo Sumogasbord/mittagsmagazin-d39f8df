@@ -5,10 +5,10 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: All Posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: 記事一覧
     posts: []
     showThumbnail: true
     showExcerpt: true
