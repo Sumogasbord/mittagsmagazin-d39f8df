@@ -159,7 +159,9 @@ JR九州は、インターネット予約サービスの開始や大々的にオ
 
 　　
 
-（※写真撮影中）
+![](https://res.cloudinary.com/dikcsjqfo/image/upload/v1725950000/PXL_20240910_062352436.MP_xbus39.jpg)
+
+![](https://res.cloudinary.com/dikcsjqfo/image/upload/v1725950000/PXL_20240910_062404752.MP_sb5r6s.jpg)
 
 これです。
 
