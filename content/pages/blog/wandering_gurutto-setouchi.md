@@ -53,7 +53,7 @@ bottomSections:
     subtitle: ''
 slug: wandering_gurutto-setouchi
 isFeatured: false
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: lorem-ipsum
