@@ -82,17 +82,6 @@
                 }
             ],
             "labelStyle": "secondary"
-        },
-        {
-            "type": "Link",
-            "label": "All articles",
-            "altText": "すべての記事",
-            "url": "/blog",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [],
