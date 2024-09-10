@@ -86,7 +86,7 @@
         {
             "type": "Link",
             "label": "All articles",
-            "altText": "",
+            "altText": "すべての記事",
             "url": "/blog",
             "showIcon": false,
             "icon": "arrowRight",
