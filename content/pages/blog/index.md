@@ -37,24 +37,6 @@ topSections:
           - pl-20
           - pb-20
           - pr-20
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: All Posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: すべての記事
-    text: ''
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
 styles:
   title:
     textAlign: center
