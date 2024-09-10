@@ -8,7 +8,7 @@ topSections:
       text: All Posts
       color: text-dark
       type: TitleBlock
-    subtitle: すべての記事
+    subtitle: 記事一覧
     posts: []
     showThumbnail: true
     showExcerpt: true
