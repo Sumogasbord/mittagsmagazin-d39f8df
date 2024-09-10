@@ -29,7 +29,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: すべての記事
+      text: All Posts
       color: text-dark
       styles:
         self:
