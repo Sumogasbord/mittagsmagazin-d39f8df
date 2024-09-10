@@ -35,6 +35,28 @@ topSections:
       opacity: 100
       url: >-
         https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208727/magazine_background_kibsht.svg
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Grow your business 10x faster
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: This is a subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
 styles:
   title:
     textAlign: center
