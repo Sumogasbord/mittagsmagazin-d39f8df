@@ -29,7 +29,7 @@ topSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Grow your business 10x faster
+      text: すべての記事
       color: text-dark
       styles:
         self:
