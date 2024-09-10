@@ -51,7 +51,7 @@ bottomSections:
         justifyContent: center
 slug: change_to_ulcv-8000
 isFeatured: false
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: lorem-ipsum
