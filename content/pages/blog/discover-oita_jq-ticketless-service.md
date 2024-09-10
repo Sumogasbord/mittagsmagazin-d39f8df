@@ -3,11 +3,11 @@ type: PostLayout
 title: やっとJR九州ネット予約でチケレスサービスが始まるぞ！ - 豊かな国で逢いましょう
 date: '2024-09-09'
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  JR九州がネット予約のチケットレスサービスを導入すると言って半年近くが経ち、専用改札機の設置が始まった今日この頃、「そろそろサービス開始するんじゃないか？」という状況になってきましたので、ちょっと記事にしてみました。今回は「なぜ今までチケットレスサービスをやってこなかったのか？」を中心に考察してみます。
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: >-
+    http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -59,6 +59,8 @@ seo:
     JR九州がネット予約のチケットレスサービスを導入すると言って半年近くが経ち、専用改札機の設置が始まった今日この頃、「そろそろサービス開始するんじゃないか？」という状況になってきましたので、ちょっと記事にしてみました。今回は「なぜ今までチケットレスサービスをやってこなかったのか？」を中心に考察してみます。
   addTitleSuffix: false
   metaTags: []
+  socialImage: >-
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
 colors: bg-light-fg-dark
 styles:
   self:
