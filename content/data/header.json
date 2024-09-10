@@ -85,7 +85,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "All articles",
             "altText": "",
             "url": "/blog",
             "showIcon": false,
