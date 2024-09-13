@@ -7,7 +7,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    http://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1726232360/jq-ticketless-soon_gkoyts.jpg
   altText: Thumbnail
   elementId: ''
   styles:
@@ -61,7 +61,7 @@ seo:
   addTitleSuffix: false
   metaTags: []
   socialImage: >-
-    https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
+    https://res.cloudinary.com/dikcsjqfo/image/upload/v1726232360/jq-ticketless-soon_gkoyts.jpg
 colors: bg-light-fg-dark
 styles:
   self:
