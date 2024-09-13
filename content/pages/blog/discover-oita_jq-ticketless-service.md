@@ -49,6 +49,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
+    hoverEffect: thin-underline
 slug: discover-oita_jq-ticketless-service
 isFeatured: false
 isDraft: false
