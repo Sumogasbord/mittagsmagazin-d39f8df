@@ -20,22 +20,6 @@ export const config = defineStackbitConfig({
     nodeVersion: '18',
     styleObjectModelName: 'ThemeStyle',
     contentSources: [gitContentSource],
-    assetSources: [
-        {
-            name: "RooLone R2",
-            type: "iframe",
-            url: "https://media.magazine.roolone.me",
-            transform: ({ assetData }) => assetData.imageUrl,
-            preview: ({ assetData }: { assetData: string }) => ({ image: assetData.url })
-        }
-    ],
-    modelExtensions: [
-        {
-            name: "rl-magazine",
-            type: "object",
-            fields: [{ name: "image", type: "image", source: "asset-source-name" }]
-        }
-    ]
     presetSource: {
         type: 'files',
         presetDirs: ['sources/local/presets']
