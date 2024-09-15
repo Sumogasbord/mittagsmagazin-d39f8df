@@ -38,7 +38,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/discover-oita_jq-ticketless-service.md
     showThumbnail: true
     showExcerpt: true
     showDate: true

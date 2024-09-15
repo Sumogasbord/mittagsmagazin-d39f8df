@@ -47,7 +47,7 @@ sections:
         tagline: Travel Diary
         subtitle: ''
         text: |
-          「さまよういんたーねっつ★座敷童子」」であるSumögåsbordの旅行記です。
+          「さまよういんたーねっつ★座敷童子」であるSumögåsbordの旅行記です。
           主に国内旅行中心です。
         image:
           type: ImageBlock
@@ -158,6 +158,46 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Latest update
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/discover-oita_jq-ticketless-service.md
+      - content/pages/blog/pf-tekito-naming.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thick-underline
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+    subtitle: ''
 seo:
   metaTitle: RooLone Magazine
   metaDescription: RooLone Magazineのトップページです。
