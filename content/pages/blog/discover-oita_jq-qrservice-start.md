@@ -62,10 +62,126 @@ styles:
     flexDirection: col
 author: content/data/sumogasbord.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+やっと！やーっとだ！めちゃ待った！
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+この記事は前回の続きです。
+
+[やっとJR九州ネット予約でチケレスサービスが始まるぞ！ - 豊かな国で逢いましょう](https://magazine.roolone.me/blog/discover-oita_jq-ticketless-service/)
+
+
+
+2024年 9月26日。
+
+JR九州がインターネット予約サービスでチケットレスサービスを開始しました。
+
+
+
+チケットレスサービス導入により、「みどりの窓口」や「みどりの券売機（指定席券売機）」で予約したきっぷを受け取る必要がなくなり、予約時に発行されたQRコードを改札機にかざして入場するということで、博多駅や大分駅の行列がやっと解消されるのではないかと期待されていますが、実際どんなものか試してみようと思います。
+
+
+
+## まずは予約してみる
+
+まずは実態はほぼブラウザアプリのJR九州アプリで予約してみようと思います。
+
+ブラウザ(Web)版でも予約操作の時点ではあまり違いがないので、操作は同じだと思います。
+
+
+
+今回は大分駅から小倉駅までの列車を指定席で予約しようと思います。
+
+
+
+まず、いつも通り画面下中央の「列車予約」と書かれたところを押すと時刻検索の画面が出てきます。
+
+いつも通り「出発駅」・「到着駅」・「乗車日」・「時刻」・「人数」を入力し、「検索する」を押します。
+
+（博多や長崎に行く場合は「小倉⇔博多間の新幹線や、九州外の発着を含める」に入っている☑をタッチしてチェックマークが入っていない状態にしてあげると、在来線特急ができるようになり、今回のようにQRチケットで乗ることができます。）
+
+
+
+すると、列車の案が出てきますので、乗りたい列車を選択します。
+
+これも今までと一緒です。
+
+そして、「きっぷ選択」という画面が出てきます。
+
+元から「安いきっぷで行きますか？JQカード会員価格で行きますか？それとも通常金額で行きますか？」というのを選ばせる画面ですが、QRチケレス導入してからは「九州ネットきっぷ」などのQRチケレスが使えるオトクなきっぷにはロゴが表示されるようになりました。
+
+なお、操作は今まで通りですので、「九州ネットきっぷ」を選択します。
+
+
+
+続いて「座席位置」。
+
+これは今まで通り座席位置を選択するだけの画面です。
+
+
+
+そして、QRチケット導入で登場したのが「乗車方法」の画面。
+
+QRチケレス対応のきっぷにはこのような「スマホで乗りますか？今までのように発券しますか？」という問いが入ります。
+
+なお、QRチケレスはクレジットカード決済のみ利用可能のようですので、「「コンビニエンスストア、銀行ATM・ネットバンキング、駅支払い」でお支払いの場合、ご利用できません。」という注意事項が表示されます。
+
+
+
+先程の画面でQRチケレスを選択したら、「お支払い方法」の画面になります。
+
+先述の通り、QRチケレスはクレジット決済のみしか使えないようですので、「コンビニ・ATM」や「駅・窓口」の項目が無効化されています。
+
+ここは今までのように登録したクレジットカード・デビットカード・プリペイドカードを選択して予約内容を確認します。
+
+
+
+「予約内容の確認」の画面は上部は今まで通りでしたが、下部はQRチケレスの注意事項や利用方法が表示されるようになっています。
+
+予約が完了するとアプリにQRチケットが表示できるようになります。
+
+ちなみに、当日じゃなくても表示可能でした。
+
+## 乗車準備
+
+アプリのトップ画面に「乗車準備（QR表示・読み込み）」という項目がありますのでタッチしてみると、チケット代わりのQRコードが表示されました。
+
+
+
+下記には、今まで通りきっぷとして受け取るための「QR⇔発券」のボタン、予約内容やきっぷを他の人に共有するための画面へ進む「予約確認」、無人駅に設置されているポスタータイプの改札でQRコードを読み込ませるための「ポスター改札」の3項目が表示されていました。
+
+
+
+今回は1人で利用したため詳細は不明でしたが、複数人にも対応しているようで、スマホを持っているのであれば、LINEやメールなどで送ることができるそうです。
+
+また、代表者が人数分のQRコードを改札機に読み取らせることで入場することができるそうです。
+
+## 乗ってみよう
+
+乗車は簡単。
+
+先程のQRコードを改札機の読み取り部分にかざすと音がなるので、そのまま進むことで入場できます。
+
+
+
+入場するとQRコードの周りが白から緑色に変わります。
+
+
+
+## 降りてみよう
+
+降りるときも乗車時と同じ。
+
+先程のQRコードを改札機の読み取り部分にかざすと音がなるので、改札を出ることができます。
+
+
+
+使用済みのQRコードは周りが灰色になるだけで、しばらく間見ることができました。
+
+
+
+## 参考資料
+
+<https://www.jrkyushu.co.jp/yoyaku/>
+
+<https://www.jrkyushu.co.jp/yoyaku/qrticketless/>
