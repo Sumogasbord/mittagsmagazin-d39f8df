@@ -51,7 +51,7 @@ bottomSections:
         justifyContent: center
 slug: discover-oita_jq-qrservice-start
 isFeatured: false
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: lorem-ipsum
