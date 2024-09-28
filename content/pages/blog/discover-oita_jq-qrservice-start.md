@@ -2,9 +2,7 @@
 type: PostLayout
 title: さらば発券、ようこそ直接乗車の世界へ。 - 豊かな国で逢いましょう
 date: '2024-09-28'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: さらば発券、ようこそ直接乗車の世界へ。 - 豊かな国で逢いましょう
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
