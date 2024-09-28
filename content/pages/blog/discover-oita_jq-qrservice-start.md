@@ -2,7 +2,6 @@
 type: PostLayout
 title: さらば発券、ようこそ直接乗車の世界へ。 - 豊かな国で逢いましょう
 date: '2024-09-28'
-author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
