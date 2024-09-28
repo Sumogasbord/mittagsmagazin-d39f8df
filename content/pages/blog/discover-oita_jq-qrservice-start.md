@@ -53,7 +53,7 @@ isDraft: true
 seo:
   type: Seo
   metaTitle: さらば発券、ようこそ直接乗車の世界へ。 - 豊かな国で逢いましょう
-  metaDescription: lorem-ipsum
+  metaDescription: さらば発券、ようこそ直接乗車の世界へ。 - 豊かな国で逢いましょう
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
