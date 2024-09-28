@@ -52,7 +52,7 @@ isFeatured: false
 isDraft: true
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
+  metaTitle: さらば発券、ようこそ直接乗車の世界へ。 - 豊かな国で逢いましょう
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
