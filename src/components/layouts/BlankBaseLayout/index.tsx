@@ -10,6 +10,17 @@ export default function BlankBaseLayout(props) {
         <div className={classNames('sb-page', pageMeta.pageCssClasses)} {...(enableAnnotations && { 'data-sb-object-id': pageMeta.id })}>
             <Head>
                 <title>{page.title}</title>
+
+                <!-- Google tag (gtag.js) -->
+                <script async src="https://www.googletagmanager.com/gtag/js?id=G-B4GMQ1DGL7"></script>
+                <script>
+                    window.dataLayer = window.dataLayer || [];
+                    function gtag(){dataLayer.push(arguments);}
+                    gtag('js', new Date());
+
+                    gtag('config', 'G-B4GMQ1DGL7');
+                </script>
+
                 <script
                     dangerouslySetInnerHTML={{
                         __html: `
@@ -24,6 +35,7 @@ export default function BlankBaseLayout(props) {
                             `}}
                 />
                 <meta name="description" content="Components Library" />
+
                 {site.favicon && <link rel="icon" href={site.favicon} />}
             </Head>
             {props.children}
