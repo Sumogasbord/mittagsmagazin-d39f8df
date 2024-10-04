@@ -48,7 +48,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: pf-tekito-naming
+slug: pf-analytics
 isFeatured: false
 isDraft: ture
 seo:
