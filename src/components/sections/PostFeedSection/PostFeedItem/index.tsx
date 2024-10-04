@@ -36,10 +36,10 @@ export default function PostFeedItem(props) {
                 post.styles?.self?.padding ? mapStyles({ padding: post.styles?.self?.padding }) : undefined,
                 post.styles?.self?.borderWidth && post.styles?.self?.borderWidth !== 0 && post.styles?.self?.borderStyle !== 'none'
                     ? mapStyles({
-                        borderWidth: post.styles?.self?.borderWidth,
-                        borderStyle: post.styles?.self?.borderStyle,
-                        borderColor: post.styles?.self?.borderColor ?? 'border-primary'
-                    })
+                          borderWidth: post.styles?.self?.borderWidth,
+                          borderStyle: post.styles?.self?.borderStyle,
+                          borderColor: post.styles?.self?.borderColor ?? 'border-primary'
+                      })
                     : undefined,
                 post.styles?.self?.borderRadius ? mapStyles({ borderRadius: post.styles?.self?.borderRadius }) : undefined,
                 post.styles?.self?.textAlign ? mapStyles({ textAlign: post.styles?.self?.textAlign }) : undefined,

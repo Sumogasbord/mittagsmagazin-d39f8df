@@ -60,17 +60,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: GenericSection
     title:
       type: TitleBlock
@@ -80,10 +69,27 @@ sections:
         self:
           textAlign: center
     subtitle: RooLone Magazineって何ですか？
-    text: |+
+    text: >+
       RooLone Magazineは「さまよう旅人」へ向けたウェブマガジン。
 
+
       以下のコンテンツを通して旅の参考に1mmぐらいはなるような情報をローペースで発信する予定。
+
+
+      | **休み短しさまよえ旅人**    | Plainboxウェブサイトで展開していたシリーズをRooLone
+      Magazineへお引越し。Sumögåsbordを中心に旅行記として展開予定。 |
+
+      | ----------------- |
+      --------------------------------------------------------------------------
+      |
+
+      | **豊かな国で逢いましょう**   |
+      我々が拠点としている大分県のことについて書く予定。基本的には交通系の情報を初めて来県する旅行者向けの内容と大分県に住んでいる人へ向けて書く予定。  
+      |
+
+      | **どうでもふぇすてぃばーれん** |
+      上記2つとは違い、テーマがなく、どうでもいいようなことを書く予定。備忘録のようなもの。                               
+      |
 
     actions: []
     colors: bg-light-fg-dark
@@ -93,110 +99,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedItemsSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: 休み短しさまよえ旅人
-        tagline: ''
-        subtitle: ''
-        text: |
-          Plainboxウェブサイトで展開していたシリーズをRooLone Magazineへお引越し。
-          Sumögåsbordを中心に旅行記として展開予定。
-        image:
-          type: ImageBlock
-          url: >-
-            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723293169/magazin_wandering_Thumbnail_v50rex.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: 豊かな国で逢いましょう
-        tagline: ''
-        subtitle: ''
-        text: |
-          我々が拠点としている大分県のことについて書く予定。
-          基本的には交通系の情報を初めて来県する旅行者向けの内容と大分県に住んでいる人へ向けて書く予定。
-        image:
-          type: ImageBlock
-          url: >-
-            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208013/magazin_discover-oita_Thumbnail_eyelkl.jpg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: どうでもふぇすてぃばーれん
-        tagline: ''
-        subtitle: ''
-        text: |
-          上記2つとは違い、テーマがなく、どうでもいいようなことを書く予定。備忘録のようなもの。
-        image:
-          type: ImageBlock
-          url: >-
-            https://res.cloudinary.com/dikcsjqfo/image/upload/v1723208689/magazine_thumbnail_cmafx9.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-3
-          - pl-3
-          - pb-3
-          - pr-3
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
