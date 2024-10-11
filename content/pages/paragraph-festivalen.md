@@ -38,8 +38,7 @@ sections:
       styles:
         self:
           textAlign: center
-    posts:
-      - content/pages/blog/pf-tekito-naming.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
