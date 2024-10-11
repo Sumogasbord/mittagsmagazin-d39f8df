@@ -48,7 +48,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: discover-oita_jq-qrservice-start
-isFeatured: false
+isFeatured: true
 isDraft: true
 seo:
   type: Seo
