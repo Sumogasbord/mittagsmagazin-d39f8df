@@ -179,6 +179,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/discover-oita_jq-ticketless-service.md
+      - content/pages/blog/pf_tekito-naming.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
