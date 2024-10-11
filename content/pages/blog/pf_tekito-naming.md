@@ -48,7 +48,7 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-    hoverEffect: thin-underline
+    hoverEffect: thick-underline
 slug: pf_tekito-naming
 isFeatured: false
 isDraft: false
